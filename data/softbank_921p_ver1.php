@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'softbank_921p_ver1',
+  'fallback' => 'softbank_generic',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Access Netfront',
+    'mobile_browser_version' => '3.4',
+    'uaprof' => 'http://mobileinternet.panasonicbox.com/UAprof/VS84/RJ1_3G.xml',
+    'can_skip_aligned_link_row' => 'true',
+    'model_name' => '921P',
+    'marketing_name' => 'Viera',
+    'release_date' => '2008_august',
+    'dual_orientation' => 'true',
+    'max_image_width' => '471',
+    'resolution_width' => '480',
+    'resolution_height' => '854',
+    'max_image_height' => '700',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'streaming_real_media' => 'none',
+    'max_data_rate' => '1800',
+    'flash_lite_version' => '2_0',
+    'directdownload_support' => 'true',
+    'oma_support' => 'true',
+    'oma_v_1_0_separate_delivery' => 'true',
+  ),
+);

@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'amoi_m636_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.amobile.com.cn/ua/M636.xml',
+    'model_name' => 'M636',
+    'brand_name' => 'Amoi',
+    'physical_screen_height' => '40',
+    'physical_screen_width' => '32',
+    'max_image_width' => '169',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '144',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'gif_animated' => 'true',
+    'colors' => '65536',
+    'png' => 'true',
+    'html_wi_oma_xhtmlmp_1_0' => 'true',
+    'html_wi_w3_xhtmlbasic' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'streaming_real_media' => 'none',
+  ),
+);

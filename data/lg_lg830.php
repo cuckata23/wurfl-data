@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lg_lg830',
+  'fallback' => 'lg_generic_obigo_q5',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://uaprof.bellmobilite.ca/LGE_LG830.rdf',
+    'model_name' => 'LG830',
+    'brand_name' => 'LG',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_3' => 'true',
+    'physical_screen_height' => '45',
+    'columns' => '15',
+    'physical_screen_width' => '34',
+    'rows' => '17',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '65536',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

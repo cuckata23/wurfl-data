@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'mot_t192m_ver1',
+  'fallback' => 'upgui_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'T192m',
+    'brand_name' => 'Motorola',
+    'columns' => '16',
+    'rows' => '4',
+    'max_image_width' => '91',
+    'resolution_width' => '96',
+    'max_image_height' => '51',
+    'nokia_voice_call' => 'true',
+    'max_deck_size' => '2048',
+    'downloadfun_support' => 'true',
+    'wallpaper_colors' => '8',
+    'screensaver_max_height' => '64',
+    'screensaver_max_width' => '96',
+    'screensaver_gif' => 'true',
+    'wallpaper_gif' => 'true',
+    'screensaver' => 'true',
+    'connectionless_service_load' => 'true',
+    'connectionoriented_confirmed_service_indication' => 'false',
+    'connectionoriented_confirmed_cache_operation' => 'false',
+    'connectionoriented_confirmed_service_load' => 'false',
+    'connectionoriented_unconfirmed_cache_operation' => 'false',
+    'connectionoriented_unconfirmed_service_load' => 'false',
+    'connectionoriented_unconfirmed_service_indication' => 'false',
+    'streaming_real_media' => 'none',
+  ),
+);

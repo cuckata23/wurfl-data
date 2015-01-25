@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_e750_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-E750.xml',
+    'model_name' => 'SGH E750',
+    'brand_name' => 'Samsung',
+    'max_data_rate' => '40',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '16',
+    'ringtone_amr' => 'true',
+    'wallpaper_colors' => '8',
+    'ringtone_mmf' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'columns' => '20',
+    'rows' => '8',
+    'max_image_width' => '169',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '180',
+    'streaming_real_media' => 'none',
+  ),
+);

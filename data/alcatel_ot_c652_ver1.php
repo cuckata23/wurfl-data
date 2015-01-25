@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'alcatel_ot_c652_ver1',
+  'fallback' => 'opwv_v7_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'OT-C652',
+    'brand_name' => 'Alcatel',
+    'max_image_width' => '120',
+    'rows' => '9',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '160',
+    'colors' => '65536',
+    'ringtone_voices' => '40',
+    'ringtone_mp3' => 'true',
+    'wallpaper' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'ringtone' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'ringtone_spmidi' => 'true',
+    'ringtone_aac' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'sender' => 'true',
+    'receiver' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

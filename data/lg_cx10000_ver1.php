@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'lg_cx10000_ver1',
+  'fallback' => 'lg_generic_obigo_q5',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Teleca-Obigo',
+    'uaprof' => 'http://uaprof.bellmobilite.ca/GS_CX10000.rdf',
+    'model_name' => 'CX10000',
+    'brand_name' => 'LG',
+    'release_date' => '2009_august',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '15',
+    'rows' => '17',
+    'resolution_width' => '400',
+    'resolution_height' => '240',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '262144',
+    'max_deck_size' => '4096',
+    'wap_push_support' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+  ),
+);

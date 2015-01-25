@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'gradiente_gf690_ver1',
+  'fallback' => 'sagem_myc4_2_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'GF-690',
+    'brand_name' => 'Gradiente',
+    'max_image_width' => '120',
+    'resolution_height' => '128',
+    'resolution_width' => '128',
+    'max_image_height' => '108',
+    'colors' => '65536',
+    'wallpaper' => 'true',
+    'ringtone_amr' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone_imelody' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_wav' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'wav' => 'true',
+    'amr' => 'true',
+    'imelody' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'preferred_markup' => 'html_wi_w3_xhtmlbasic',
+    'streaming_real_media' => 'none',
+  ),
+);

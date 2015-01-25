@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'orange_spv_c700_ver1_subua',
+  'fallback' => 'orange_spv_c700_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'SPV C700',
+    'brand_name' => 'Orange',
+    'columns' => '42',
+    'max_image_width' => '229',
+    'rows' => '13',
+    'wta_voice_call' => 'true',
+    'chtml_make_phone_call_string' => 'tel:',
+    'xhtml_make_phone_call_string' => 'wtai://wp/mc;',
+    'gif_animated' => 'false',
+    'colors' => '65536',
+    'png' => 'true',
+    'directdownload_support' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'ringtone' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'video' => 'true',
+    'oma_v_1_0_forwardlock' => 'true',
+    'mms_max_size' => '51200',
+    'mms_max_width' => '240',
+    'mms_max_height' => '320',
+    'sender' => 'true',
+    'receiver' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+  ),
+);

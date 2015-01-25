@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'mot_a1200e_ver1_subr541l7g11000cr',
+  'fallback' => 'mot_a1200e_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://motorola.handango.com/phoneconfig/A1200e/profile/A1200e.rdf',
+    'model_name' => 'A1200e',
+    'brand_name' => 'Motorola',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'colors' => '262144',
+    'max_deck_size' => '10000',
+    'mms_png' => 'true',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1280',
+    'mms_max_height' => '1280',
+    'mms_gif_static' => 'true',
+    'mms_wav' => 'true',
+    'mms_vcard' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'wav' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+  ),
+);

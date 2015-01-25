@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'htc_a6277_ver1',
+  'fallback' => 'generic_android_ver1_5',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://device.sprintpcs.com/HTC/APA6277KT/1006512.rdf',
+    'model_name' => '6277',
+    'brand_name' => 'HTC',
+    'release_date' => '2009_august',
+    'table_support' => 'true',
+    'columns' => '25',
+    'rows' => '21',
+    'max_image_width' => '300',
+    'resolution_width' => '320',
+    'resolution_height' => '480',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'wap_push_support' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+    'directdownload_support' => 'true',
+    'oma_support' => 'true',
+    'xhtml_file_upload' => 'supported',
+  ),
+);

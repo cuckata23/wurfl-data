@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'portalmmm_ver2_subg402i',
+  'fallback' => 'portalmmm_ver2',
+  'capabilities' => 
+  array (
+    'model_name' => 'G402i',
+    'brand_name' => 'Grundig',
+    'max_image_width' => '128',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '160',
+    'jpg' => 'true',
+    'colors' => '65536',
+    'png' => 'true',
+    'sp_midi' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'downloadfun_support' => 'true',
+    'video' => 'true',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+    'streaming_3gpp' => 'true',
+  ),
+);

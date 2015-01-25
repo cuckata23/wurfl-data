@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'palm_pixi_ver1',
+  'fallback' => 'generic_safari',
+  'capabilities' => 
+  array (
+    'device_os' => 'webOS',
+    'has_qwerty_keyboard' => 'true',
+    'pointing_method' => 'touchscreen',
+    'device_claims_web_support' => 'true',
+    'model_name' => 'Pixi',
+    'device_os_version' => '1.3',
+    'brand_name' => 'Palm',
+    'release_date' => '2009_november',
+    'max_image_width' => '320',
+    'resolution_width' => '320',
+    'resolution_height' => '400',
+    'max_image_height' => '400',
+    'ajax_support_getelementbyid' => 'true',
+    'ajax_xhr_type' => 'standard',
+    'ajax_support_event_listener' => 'true',
+    'ajax_manipulate_dom' => 'true',
+    'ajax_support_javascript' => 'true',
+    'ajax_support_inner_html' => 'true',
+    'ajax_manipulate_css' => 'true',
+    'ajax_support_events' => 'true',
+    'colors' => '65536',
+    'viewport_width' => 'device_width_token',
+    'viewport_supported' => 'true',
+    'viewport_userscalable' => 'no',
+  ),
+);

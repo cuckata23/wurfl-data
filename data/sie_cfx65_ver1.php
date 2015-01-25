@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'sie_cfx65_ver1',
+  'fallback' => 'sie_c65_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'CFX65',
+    'max_deck_size' => '30000',
+    'screensaver_preferred_width' => '128',
+    'screensaver_max_height' => '160',
+    'wallpaper_max_height' => '160',
+    'ringtone_mmf' => 'true',
+    'screensaver_max_width' => '128',
+    'picture_max_width' => '128',
+    'wallpaper_max_width' => '128',
+    'wallpaper_preferred_width' => '128',
+    'screensaver_preferred_height' => '160',
+    'wallpaper_preferred_height' => '160',
+    'picture_max_height' => '160',
+    'picture_preferred_width' => '128',
+    'video' => 'true',
+    'picture_preferred_height' => '160',
+    'mmf' => 'true',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '130',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+  ),
+);

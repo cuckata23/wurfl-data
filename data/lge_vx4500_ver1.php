@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lge_vx4500_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'VX4500',
+    'brand_name' => 'LG',
+    'columns' => '17',
+    'max_image_width' => '120',
+    'rows' => '7',
+    'resolution_height' => '160',
+    'resolution_width' => '120',
+    'max_image_height' => '120',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'qcelp' => 'true',
+    'voices' => '16',
+    'evrc' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'ems' => 'true',
+    'ringtone_voices' => '16',
+    'wallpaper_png' => 'true',
+    'wallpaper_colors' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'ringtone_qcelp' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

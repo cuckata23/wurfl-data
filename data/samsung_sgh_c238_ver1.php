@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_c238_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-C238',
+    'brand_name' => 'Samsung',
+    'wml_1_2' => 'true',
+    'preferred_markup' => 'wml_1_2',
+    'max_image_width' => '128',
+    'resolution_height' => '128',
+    'resolution_width' => '128',
+    'max_image_height' => '128',
+    'colors' => '65536',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'ems' => 'true',
+    'ringtone_voices' => '40',
+    'directdownload_support' => 'true',
+    'wallpaper_colors' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'ringtone' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'voices' => '40',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

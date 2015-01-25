@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'pt_g310_ver1',
+  'fallback' => 'pantech_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'PT-G310',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'wml_1_3',
+    'max_image_width' => '128',
+    'resolution_height' => '128',
+    'resolution_width' => '128',
+    'max_image_height' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '262144',
+    'ringtone_voices' => '40',
+    'wallpaper' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'voices' => '40',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

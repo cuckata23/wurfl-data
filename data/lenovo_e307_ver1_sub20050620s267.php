@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lenovo_e307_ver1_sub20050620s267',
+  'fallback' => 'lenovo_e307_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/download_200610316599756.xml',
+    'model_name' => 'E307',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'columns' => '18',
+    'rows' => '8',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '3100',
+    'mms_png' => 'true',
+    'mms_max_size' => '50000',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'midi_monophonic' => 'true',
+    'max_data_rate' => '40',
+  ),
+);

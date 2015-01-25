@@ -1,0 +1,9 @@
+<?php
+return array (
+  'id' => 'samsung_shw_m250s_ver1_suban44',
+  'fallback' => 'samsung_shw_m250s_ver1',
+  'capabilities' => 
+  array (
+    'device_os_version' => '4.4',
+  ),
+);

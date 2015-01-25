@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'portalmmm_ver2_subsg341i',
+  'fallback' => 'portalmmm_ver2_subsg321i',
+  'capabilities' => 
+  array (
+    'model_name' => 'SG341i',
+    'brand_name' => 'Sagem',
+    'preferred_markup' => 'html_wi_imode_html_1',
+    'columns' => '16',
+    'rows' => '10',
+    'max_image_width' => '128',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '131',
+    'jpg' => 'true',
+    'colors' => '65536',
+    'voices' => '64',
+    'imelody' => 'true',
+    'mms_max_size' => '51200',
+    'sender' => 'true',
+    'receiver' => 'true',
+    'wallpaper_png' => 'true',
+    'ringtone_amr' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_preferred_width' => '160',
+    'wallpaper_preferred_height' => '128',
+    'ringtone_imelody' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'nokia_2865i_ver1',
+  'fallback' => 'nokia_2865_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => '2865i',
+    'release_date' => '2006_april',
+    'ringtone_mp3' => 'true',
+    'picture_colors' => '18',
+    'oma_support' => 'true',
+    'video' => 'true',
+    'max_data_rate' => '9',
+    'streaming_real_media' => 'none',
+    'streaming_3gpp' => 'true',
+    'streaming_vcodec_h264_bp' => '1',
+    'accept_third_party_cookie' => 'false',
+    'playback_acodec_aac' => 'heaac2',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_acodec_qcelp' => 'true',
+    'playback_vcodec_h263_0' => '10',
+    'playback_vcodec_h264_bp' => '1',
+    'gif_animated' => 'true',
+    'colors' => '262144',
+    'qcelp' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+  ),
+);

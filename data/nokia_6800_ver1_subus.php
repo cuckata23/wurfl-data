@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'nokia_6800_ver1_subus',
+  'fallback' => 'nokia_6800_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N6800r200.xml',
+    'model_name' => '6800',
+    'model_extra_info' => 'United States',
+    'xhtml_supports_css_cell_table_coloring' => 'true',
+    'xhtml_make_phone_call_string' => 'wtai://wp/mc;',
+    'xhtml_table_support' => 'true',
+    'xhtmlmp_preferred_mime_type' => 'application/xhtml+xml',
+    'xhtml_readable_background_color1' => '#99CCFF',
+    'xhtml_supports_table_for_layout' => 'true',
+    'xhtml_format_as_css_property' => 'true',
+    'html_wi_oma_xhtmlmp_1_0' => 'true',
+    'html_wi_w3_xhtmlbasic' => 'true',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'oma_v_1_0_forwardlock' => 'true',
+    'jpg' => 'true',
+    'png' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'mms_max_size' => '45000',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'max_data_rate' => '40',
+    'streaming_real_media' => 'none',
+  ),
+);

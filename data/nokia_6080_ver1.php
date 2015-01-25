@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'nokia_6080_ver1',
+  'fallback' => 'nokia_generic_series40_dp20',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds.nokia.com/uaprof/N6080r100.xml',
+    'model_name' => '6080',
+    'release_date' => '2006_june',
+    'max_image_width' => '118',
+    'resolution_height' => '160',
+    'max_image_height' => '160',
+    'colors' => '65536',
+    'ringtone_mp3' => 'true',
+    'wallpaper_max_height' => '160',
+    'ringtone_amr' => 'true',
+    'picture_colors' => '16',
+    'wallpaper_preferred_height' => '160',
+    'video' => 'true',
+    'awb' => 'true',
+    'mp3' => 'true',
+    'max_data_rate' => '200',
+    'accept_third_party_cookie' => 'false',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+    'streaming_3gpp' => 'true',
+    'streaming_video' => 'true',
+    'j2me_cldc_1_1' => 'true',
+  ),
+);

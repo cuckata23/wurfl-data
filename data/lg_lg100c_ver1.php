@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lg_lg100c_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://uaprof1.caohosting.com/UAProfLG100C_TF_V01.xml',
+    'model_name' => 'LG100C',
+    'brand_name' => 'LG',
+    'model_extra_info' => 'TracFone',
+    'release_date' => '2009_december',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '12',
+    'rows' => '6',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'wap_push_support' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'directdownload_support' => 'true',
+  ),
+);

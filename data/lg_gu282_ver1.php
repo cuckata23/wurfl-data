@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lg_gu282_ver1',
+  'fallback' => 'lg_gu280_ver1',
+  'capabilities' => 
+  array (
+    'mobile_browser_version' => '7.3',
+    'uaprof' => 'http://gsm.lge.com/html/gsm/GU282-M3-D1.xml',
+    'model_name' => 'GU282',
+    'release_date' => '2009_july',
+    'softkey_support' => 'true',
+    'columns' => '25',
+    'rows' => '15',
+    'max_image_width' => '168',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'max_image_height' => '160',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '49152',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1280',
+    'mms_max_height' => '960',
+    'mms_bmp' => 'true',
+    'directdownload_support' => 'true',
+    'oma_v_1_0_separate_delivery' => 'true',
+  ),
+);

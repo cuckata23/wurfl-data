@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'nokia_5230c_ver1',
+  'fallback' => 'nokia_5230_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => '5230 Nuron',
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia5230-cr100-3G.xml',
+    'uaprof2' => 'http://nds1.nds.nokia.com/uaprof/Nokia5230-cr100-2G.xml',
+    'release_date' => '2010_march',
+    'physical_screen_height' => '71',
+    'columns' => '17',
+    'physical_screen_width' => '40',
+    'rows' => '13',
+    'resolution_width' => '360',
+    'resolution_height' => '640',
+    'colors' => '16777216',
+    'max_deck_size' => '357000',
+    'streaming_vcodec_h264_bp' => '1',
+    'streaming_vcodec_mpeg4_sp' => '0',
+    'mms_max_size' => '1048576',
+    'mms_max_width' => '2048',
+    'mms_max_height' => '1536',
+    'image_inlining' => 'true',
+    'max_data_rate' => '1200',
+    'picture_colors' => '24',
+    'playback_acodec_aac' => 'heaac2',
+    'playback_acodec_amr' => 'wb',
+    'playback_wmv' => '9',
+  ),
+);

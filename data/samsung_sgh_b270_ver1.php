@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_b270_ver1',
+  'fallback' => 'generic_xhtml',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-B270',
+    'brand_name' => 'Samsung',
+    'release_date' => '2009_july',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'physical_screen_height' => '34',
+    'columns' => '17',
+    'physical_screen_width' => '34',
+    'rows' => '6',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '4000',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+    'max_data_rate' => '40',
+  ),
+);

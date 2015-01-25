@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'benq_p51_ver1',
+  'fallback' => 'generic_ms_winmo5',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'pointing_method' => 'touchscreen',
+    'mobile_browser_version' => '4.0',
+    'model_name' => 'P51',
+    'device_os_version' => '5.0',
+    'brand_name' => 'BenQ',
+    'release_date' => '2006_march',
+    'physical_screen_height' => '57',
+    'physical_screen_width' => '43',
+    'wifi' => 'true',
+    'max_data_rate' => '40',
+    'video' => 'true',
+    'ringtone_3gpp' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'playback_acodec_aac' => 'lc',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'playback_3g2' => 'true',
+    'playback_vcodec_h264_bp' => '1b',
+    'streaming_real_media' => 'none',
+    'pdf_support' => 'true',
+  ),
+);

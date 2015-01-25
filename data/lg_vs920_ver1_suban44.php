@@ -1,0 +1,9 @@
+<?php
+return array (
+  'id' => 'lg_vs920_ver1_suban44',
+  'fallback' => 'lg_vs920_ver1',
+  'capabilities' => 
+  array (
+    'device_os_version' => '4.4',
+  ),
+);

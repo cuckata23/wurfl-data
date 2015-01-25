@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'samsung_sch_i200_ver1',
+  'fallback' => 'generic_android_ver4',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://uaprof.vtext.com/sam/SCH-I200/SCH-I200.xml',
+    'model_name' => 'SCH-I200',
+    'brand_name' => 'Samsung',
+    'model_extra_info' => 'for Verizon',
+    'marketing_name' => 'Galaxy Stellar 4G',
+    'release_date' => '2012_august',
+    'table_support' => 'true',
+    'physical_screen_height' => '88',
+    'columns' => '24',
+    'density_class' => '1.5',
+    'physical_screen_width' => '53',
+    'rows' => '27',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'mot_mz601_ver1',
+  'fallback' => 'generic_android_ver3_0',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://uaprof.motorola.com/phoneconfig/motomz601/Profile/motomz601.rdf',
+    'model_name' => 'MZ601',
+    'brand_name' => 'Motorola',
+    'marketing_name' => 'Xoom',
+    'release_date' => '2011_march',
+    'table_support' => 'true',
+    'physical_screen_height' => '136',
+    'columns' => '80',
+    'density_class' => '1.0',
+    'physical_screen_width' => '218',
+    'max_image_width' => '1200',
+    'rows' => '25',
+    'resolution_width' => '1280',
+    'resolution_height' => '800',
+    'max_image_height' => '760',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'png' => 'true',
+    'colors' => '16777216',
+    'wap_push_support' => 'true',
+    'sp_midi' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

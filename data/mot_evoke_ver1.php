@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'mot_evoke_ver1',
+  'fallback' => 'generic_safari',
+  'capabilities' => 
+  array (
+    'device_os' => 'Linux Smartphone OS',
+    'has_qwerty_keyboard' => 'true',
+    'pointing_method' => 'touchscreen',
+    'device_claims_web_support' => 'true',
+    'model_name' => 'Evoke',
+    'brand_name' => 'Motorola',
+    'marketing_name' => 'Evoke',
+    'release_date' => '2009_june',
+    'max_image_width' => '240',
+    'resolution_height' => '400',
+    'max_image_height' => '400',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'playback_acodec_aac' => 'heaac2',
+    'playback_3gpp' => 'true',
+    'playback_mp4' => 'true',
+    'playback_wmv' => '9',
+    'playback_vcodec_h263_0' => '30',
+    'playback_vcodec_mpeg4_sp' => '3',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'image_inlining' => 'true',
+    'css_spriting' => 'true',
+  ),
+);

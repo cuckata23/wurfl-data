@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_sph_m620_ver1_telusmobility',
+  'fallback' => 'samsung_sph_m620_ver1',
+  'capabilities' => 
+  array (
+    'columns' => '16',
+    'rows' => '9',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'colors' => '65536',
+    'mms_png' => 'true',
+    'mms_max_size' => '102400',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'uaprof' => 'http://device.telusmobility.com/samsung/sphm620-0.rdf',
+    'model_extra_info' => 'Telus',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'streaming_real_media' => 'none',
+    'directdownload_support' => 'true',
+    'oma_support' => 'true',
+  ),
+);

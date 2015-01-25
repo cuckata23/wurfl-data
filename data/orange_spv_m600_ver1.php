@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'orange_spv_m600_ver1',
+  'fallback' => 'htc_prophet_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.htcmms.com.tw/gen/prophet-2.0.xml',
+    'model_name' => 'SPV M600',
+    'brand_name' => 'Orange',
+    'colors' => '65536',
+    'png' => 'true',
+    'ringtone_voices' => '16',
+    'ringtone_mp3' => 'true',
+    'wallpaper_max_height' => '320',
+    'wallpaper' => 'true',
+    'ringtone_amr' => 'true',
+    'wallpaper_max_width' => '240',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'ringtone_wav' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'wav' => 'true',
+    'voices' => '16',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'streaming_3gpp' => 'true',
+    'xhtml_file_upload' => 'supported',
+  ),
+);

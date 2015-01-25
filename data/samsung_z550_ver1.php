@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'samsung_z550_ver1',
+  'fallback' => 'opwv_v7_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-Z550',
+    'brand_name' => 'Samsung',
+    'physical_screen_height' => '41',
+    'columns' => '16',
+    'physical_screen_width' => '30',
+    'max_image_width' => '233',
+    'rows' => '10',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '290',
+    'ringtone_mp3' => 'true',
+    'ringtone' => 'true',
+    'video' => 'true',
+    'playback_acodec_aac' => 'heaac2',
+    'playback_vcodec_h263_3' => '10',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_acodec_aac' => 'heaac2',
+    'streaming_real_media' => 'none',
+    'streaming_3gpp' => 'true',
+  ),
+);

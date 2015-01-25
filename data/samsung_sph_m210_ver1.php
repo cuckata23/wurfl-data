@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'samsung_sph_m210_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://device.telusmobility.com/samsung/sphm210-0.rdf',
+    'model_name' => 'SPH-M210',
+    'brand_name' => 'Samsung',
+    'release_date' => '2008_december',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_3' => 'true',
+    'columns' => '8',
+    'rows' => '12',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'max_image_height' => '130',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

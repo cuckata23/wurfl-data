@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'mot_jfjkn_ver1',
+  'fallback' => 'mot_w385_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://uaprof.vtext.com/mot/w385/w385v1.xml',
+    'model_name' => 'W385',
+    'columns' => '7',
+    'rows' => '11',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '3000',
+    'mms_png' => 'true',
+    'mms_max_size' => '358400',
+    'mms_max_width' => '640',
+    'mms_spmidi' => 'true',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_wav' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'aac' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

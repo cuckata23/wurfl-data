@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'nokia_5140i_ver1',
+  'fallback' => 'nokia_5140_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds.nokia.com/uaprof/N5140ir100.xml',
+    'model_name' => '5140i',
+    'release_date' => '2005_april',
+    'ringtone_mp3' => 'true',
+    'picture_colors' => '16',
+    'video' => 'true',
+    'columns' => '18',
+    'rows' => '5',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'max_image_height' => '96',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+    'streaming_3gpp' => 'true',
+    'mp3' => 'true',
+    'colors' => '65536',
+    'built_in_camera' => 'true',
+  ),
+);

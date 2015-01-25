@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'sanyo_scp_pro700_ver1_subca',
+  'fallback' => 'sanyo_scp_pro700_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'SCP-PRO700CA',
+    'brand_name' => 'Sanyo',
+    'release_date' => '2009_september',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'columns' => '26',
+    'rows' => '14',
+    'max_image_width' => '224',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '280',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '4096',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+  ),
+);

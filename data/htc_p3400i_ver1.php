@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'htc_p3400i_ver1',
+  'fallback' => 'htc_p3400_ver1',
+  'capabilities' => 
+  array (
+    'columns' => '16',
+    'max_image_width' => '228',
+    'rows' => '36',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'colors' => '65536',
+    'max_deck_size' => '3000',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '1280',
+    'mms_max_height' => '1280',
+    'mobile_browser_version' => '7.6',
+    'model_name' => 'P3400i (Gene)',
+    'uaprof' => 'http://www.htcmms.com.tw/gen/Gene-1.0.xml',
+    'max_data_rate' => '200',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_wmv' => '7',
+    'playback_3g2' => 'true',
+    'streaming_real_media' => 'none',
+    'oma_support' => 'true',
+    'css_spriting' => 'true',
+  ),
+);

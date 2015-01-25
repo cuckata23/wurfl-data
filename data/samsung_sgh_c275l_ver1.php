@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_c275l_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Nokia',
+    'mobile_browser_version' => '3.0.1',
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/c275_10.xml',
+    'model_name' => 'SGH-C275L',
+    'brand_name' => 'Samsung',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'columns' => '17',
+    'rows' => '6',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '4000',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

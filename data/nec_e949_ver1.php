@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'nec_e949_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'e949',
+    'brand_name' => 'NEC',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_screen_height' => '176',
+    'j2me_screen_width' => '176',
+    'j2me_midp_1_0' => 'true',
+    'ringtone_mp3' => 'true',
+    'wallpaper_png' => 'true',
+    'ringtone_voices' => '16',
+    'ringtone_amr' => 'true',
+    'wallpaper' => 'true',
+    'wallpaper_colors' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_preferred_width' => '176',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_height' => '240',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'physical_screen_height' => '34',
+    'physical_screen_width' => '34',
+    'streaming_real_media' => 'none',
+  ),
+);

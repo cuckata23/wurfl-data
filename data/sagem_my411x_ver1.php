@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'sagem_my411x_ver1',
+  'fallback' => 'opwv_v72_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://extranet.sagem.com/UAProfile/896937.xml',
+    'model_name' => 'MY411X',
+    'brand_name' => 'Sagem',
+    'max_image_width' => '120',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '128',
+    'bmp' => 'true',
+    'gif_animated' => 'true',
+    'colors' => '65536',
+    'png' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'directdownload_support' => 'true',
+    'wallpaper_max_height' => '160',
+    'wallpaper_max_width' => '128',
+    'wallpaper_preferred_width' => '128',
+    'wallpaper_preferred_height' => '160',
+    'streaming_real_media' => 'none',
+    'aac' => 'true',
+    'mp3' => 'true',
+  ),
+);

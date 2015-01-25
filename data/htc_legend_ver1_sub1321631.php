@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'htc_legend_ver1_sub1321631',
+  'fallback' => 'htc_legend_ver1',
+  'capabilities' => 
+  array (
+    'release_date' => '2010_october',
+    'columns' => '25',
+    'rows' => '21',
+    'max_image_width' => '300',
+    'resolution_width' => '320',
+    'resolution_height' => '480',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'wap_push_support' => 'true',
+    'mms_png' => 'true',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'wav' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

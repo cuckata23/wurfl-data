@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'sgh_t339_ver1',
+  'fallback' => 'generic_netfront_ver3_4',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-T339.xml',
+    'model_name' => 'SGH-T339',
+    'brand_name' => 'Samsung',
+    'physical_screen_height' => '40',
+    'columns' => '8',
+    'physical_screen_width' => '32',
+    'rows' => '16',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'colors' => '65536',
+    'max_deck_size' => '32768',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1280',
+    'mms_spmidi' => 'true',
+    'mms_max_height' => '1024',
+    'mms_vcard' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'streaming_real_media' => 'none',
+    'oma_support' => 'true',
+  ),
+);

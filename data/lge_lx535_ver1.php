@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lge_lx535_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'LX535',
+    'brand_name' => 'LG',
+    'max_image_width' => '169',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '220',
+    'bmp' => 'true',
+    'colors' => '262144',
+    'ringtone_voices' => '72',
+    'ringtone_mp3' => 'true',
+    'wallpaper' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'video' => 'true',
+    'screensaver' => 'true',
+    'streaming_real_media' => 'none',
+    'streaming_video' => 'true',
+    'voices' => '72',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+  ),
+);

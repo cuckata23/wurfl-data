@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'sonyericsson_k600c_ver1',
+  'fallback' => 'sonyericsson_k600_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.sonyericsson.com/UAprof/K600cR101.xml',
+    'model_name' => 'K600c',
+    'columns' => '18',
+    'rows' => '10',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'colors' => '262144',
+    'max_deck_size' => '20000',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1280',
+    'mms_max_height' => '960',
+    'streaming_real_media' => 'none',
+    'streaming_vcodec_h263_0' => '10',
+    'playback_acodec_aac' => 'lc',
+    'playback_vcodec_h263_3' => '10',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_real_media' => '8',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'playback_vcodec_h263_0' => '10',
+    'video' => 'true',
+  ),
+);

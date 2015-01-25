@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'generic_portalmmm',
+  'fallback' => 'docomo_generic_eu_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'Generic iMode',
+    'brand_name' => 'DoCoMo',
+    'html_wi_imode_html_1' => 'true',
+    'html_wi_oma_xhtmlmp_1_0' => 'true',
+    'html_wi_imode_html_2' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'html_wi_imode_html_2',
+    'xhtml_support_level' => '2',
+    'max_deck_size' => '10240',
+    'gif' => 'true',
+    'colors' => '256',
+    'smf' => 'true',
+    'voices' => '16',
+    'mld' => 'true',
+    'imode_region' => 'eu',
+    'chtml_table_support' => 'true',
+    'chtml_display_accesskey' => 'true',
+    'emoji' => 'true',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'sms_enabled' => 'true',
+  ),
+);

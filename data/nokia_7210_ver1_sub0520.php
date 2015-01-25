@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'nokia_7210_ver1_sub0520',
+  'fallback' => 'nokia_7210_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N7210sr100.xml',
+    'columns' => '15',
+    'rows' => '16',
+    'max_image_width' => '224',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '280',
+    'png' => 'true',
+    'colors' => '262144',
+    'max_deck_size' => '131072',
+    'streaming_vcodec_h263_0' => '45',
+    'streaming_vcodec_h264_bp' => '1b',
+    'streaming_vcodec_mpeg4_sp' => '0b',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '1600',
+    'mms_max_height' => '1200',
+    'mms_vcard' => 'true',
+    'mms_amr' => 'true',
+    'wav' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'oma_support' => 'true',
+    'oma_v_1_0_separate_delivery' => 'true',
+  ),
+);

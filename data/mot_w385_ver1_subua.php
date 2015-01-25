@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'mot_w385_ver1_subua',
+  'fallback' => 'mot_w385_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'W385',
+    'release_date' => '2008_october',
+    'columns' => '7',
+    'rows' => '11',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'max_image_height' => '130',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'mms_png' => 'true',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

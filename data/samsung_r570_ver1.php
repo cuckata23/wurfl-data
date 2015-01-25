@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_r570_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'uaprof' => 'http://uaprof.metropcs.net/UAProf/sam-r570.xml',
+    'model_name' => 'R570',
+    'brand_name' => 'Samsung',
+    'model_extra_info' => 'MetroPCS',
+    'release_date' => '2011_july',
+    'physical_screen_height' => '80',
+    'dual_orientation' => 'true',
+    'physical_screen_width' => '50',
+    'max_image_width' => '228',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '228',
+    'colors' => '65536',
+    'streaming_vcodec_h263_0' => '10',
+    'streaming_3gpp' => 'true',
+    'streaming_acodec_amr' => 'nb',
+    'streaming_video' => 'true',
+    'streaming_mp4' => 'true',
+    'playback_mp4' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'wav' => 'true',
+    'mp3' => 'true',
+  ),
+);

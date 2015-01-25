@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'samsung_sch_r560_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'R560',
+    'brand_name' => 'Samsung',
+    'playback_acodec_aac' => 'none',
+    'playback_mp4' => 'false',
+    'playback_3gpp' => 'false',
+    'playback_acodec_amr' => 'none',
+    'playback_acodec_qcelp' => 'false',
+    'progressive_download' => 'true',
+    'playback_3g2' => 'false',
+    'playback_vcodec_mpeg4_sp' => '-1',
+    'playback_vcodec_h263_0' => '-1',
+    'playback_vcodec_h264_bp' => '-1',
+    'streaming_vcodec_h263_0' => '30',
+    'streaming_acodec_aac' => 'lc',
+    'streaming_3gpp' => 'true',
+    'streaming_vcodec_h264_bp' => '1.3',
+    'streaming_acodec_amr' => 'nb',
+    'streaming_vcodec_mpeg4_sp' => '3',
+    'streaming_video' => 'true',
+    'streaming_mp4' => 'true',
+    'resolution_height' => '320',
+    'resolution_width' => '240',
+  ),
+);

@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lg_p350_ver1_subuaf',
+  'fallback' => 'lg_p350_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://gsm.lge.com/html/gsm/P350f-M6-D1.xml',
+    'model_name' => 'P350F',
+    'model_extra_info' => 'Latin America',
+    'release_date' => '2012_march',
+    'columns' => '25',
+    'rows' => '15',
+    'max_image_width' => '228',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '280',
+    'colors' => '65536',
+    'mms_3gpp' => 'true',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '640',
+    'sender' => 'true',
+    'mms_max_height' => '480',
+    'mms_video' => 'true',
+    'mms_bmp' => 'true',
+    'receiver' => 'true',
+    'mms_mp3' => 'true',
+    'mms_mp4' => 'true',
+    'mms_gif_animated' => 'true',
+  ),
+);

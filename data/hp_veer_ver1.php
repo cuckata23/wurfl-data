@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'hp_veer_ver1',
+  'fallback' => 'hp_webos_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://downloads.palm.com/profiles/P160U_R1.xml',
+    'model_name' => 'P160U',
+    'device_os_version' => '2.1.2',
+    'marketing_name' => 'Veer',
+    'release_date' => '2011_april',
+    'table_support' => 'true',
+    'max_image_width' => '300',
+    'resolution_width' => '320',
+    'resolution_height' => '400',
+    'max_image_height' => '360',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'png' => 'true',
+    'colors' => '16777216',
+    'streaming_vcodec_h263_0' => '45',
+    'streaming_vcodec_h264_bp' => '1',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '2592',
+    'mms_max_height' => '1944',
+    'mms_vcard' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+  ),
+);

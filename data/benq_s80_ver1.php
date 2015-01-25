@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'benq_s80_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'S80',
+    'brand_name' => 'BenQ',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'colors' => '262144',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '64',
+    'wallpaper_png' => 'true',
+    'ringtone_amr' => 'true',
+    'wallpaper_colors' => '18',
+    'wallpaper' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_width' => '176',
+    'wallpaper_preferred_height' => '220',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'physical_screen_height' => '40',
+    'physical_screen_width' => '32',
+    'max_image_width' => '156',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '200',
+    'streaming_real_media' => 'none',
+  ),
+);

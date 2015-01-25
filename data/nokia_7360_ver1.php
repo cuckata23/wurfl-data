@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'nokia_7360_ver1',
+  'fallback' => 'nokia_generic_series40_dp20',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N7360r100.xml',
+    'model_name' => '7360',
+    'release_date' => '2005_october',
+    'max_image_width' => '118',
+    'resolution_height' => '160',
+    'max_image_height' => '128',
+    'colors' => '65536',
+    'ringtone_voices' => '24',
+    'ringtone_mp3' => 'true',
+    'wallpaper_max_height' => '160',
+    'wallpaper_colors' => '16',
+    'picture_colors' => '16',
+    'wallpaper_preferred_height' => '160',
+    'video' => 'true',
+    'ringtone_aac' => 'true',
+    'max_data_rate' => '200',
+    'j2me_cldc_1_1' => 'true',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+    'streaming_3gpp' => 'true',
+    'image_inlining' => 'true',
+    'built_in_camera' => 'true',
+  ),
+);

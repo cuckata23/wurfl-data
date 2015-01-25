@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'nokia_3152_ver1',
+  'fallback' => 'nokia_generic_series40_dp20',
+  'capabilities' => 
+  array (
+    'model_name' => '3152',
+    'release_date' => '2005_march',
+    'max_image_width' => '123',
+    'resolution_height' => '160',
+    'max_image_height' => '128',
+    'html_wi_oma_xhtmlmp_1_0' => 'true',
+    'html_wi_w3_xhtmlbasic' => 'true',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'xhtml_support_level' => '1',
+    'qcelp' => 'true',
+    'aac' => 'true',
+    'voices' => '40',
+    'mp3' => 'true',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '40',
+    'picture_colors' => '18',
+    'j2me_max_jar_size' => '356352',
+    'j2me_cldc_1_1' => 'true',
+    'streaming_real_media' => 'none',
+    'colors' => '262144',
+    'playback_acodec_aac' => 'lc',
+    'playback_acodec_amr' => 'nb',
+    'playback_acodec_qcelp' => 'true',
+  ),
+);

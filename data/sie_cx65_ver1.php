@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'sie_cx65_ver1',
+  'fallback' => 'sie_platform65_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://communication-market.siemens.de/portal/UAProf/UAP.aspx?device=CX65',
+    'model_name' => 'CX65',
+    'columns' => '18',
+    'max_image_width' => '130',
+    'rows' => '8',
+    'resolution_height' => '176',
+    'resolution_width' => '132',
+    'max_image_height' => '156',
+    'connectionless_service_load' => 'true',
+    'wallpaper_max_height' => '176',
+    'wallpaper_max_width' => '132',
+    'wallpaper_preferred_width' => '132',
+    'wallpaper_preferred_height' => '176',
+    'oma_support' => 'true',
+    'video' => 'true',
+    'j2me_mmapi_1_0' => 'true',
+    'j2me_screen_height' => '176',
+    'j2me_h263' => 'true',
+    'j2me_screen_width' => '132',
+    'oma_v_1_0_separate_delivery' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+  ),
+);

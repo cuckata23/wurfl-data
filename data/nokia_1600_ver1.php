@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'nokia_1600_ver1',
+  'fallback' => 'nokia_generic',
+  'capabilities' => 
+  array (
+    'model_name' => '1600',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'wml_1_3',
+    'max_image_width' => '96',
+    'resolution_height' => '68',
+    'resolution_width' => '96',
+    'max_image_height' => '48',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '65536',
+    'voices' => '20',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '20',
+    'ringtone_amr' => 'true',
+    'wallpaper_colors' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'benq_m580_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'model_name' => 'M580',
+    'brand_name' => 'BenQ-Siemens',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '262144',
+    'ringtone_voices' => '40',
+    'wallpaper_png' => 'true',
+    'wallpaper_colors' => '16',
+    'wallpaper' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_preferred_width' => '128',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_height' => '160',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'xhtml_support_level' => '-1',
+    'preferred_markup' => 'wml_1_1',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'max_image_height' => '140',
+    'streaming_real_media' => 'none',
+  ),
+);

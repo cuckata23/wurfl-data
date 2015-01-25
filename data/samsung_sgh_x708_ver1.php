@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_x708_ver1',
+  'fallback' => 'samsung_sgh_x700_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-X708.xml',
+    'model_name' => 'SGH-X708',
+    'columns' => '8',
+    'rows' => '20',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'colors' => '262144',
+    'max_deck_size' => '16000',
+    'mms_png' => 'true',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1280',
+    'mms_max_height' => '1024',
+    'mms_gif_static' => 'true',
+    'mms_vcard' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'amr' => 'true',
+    'imelody' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+    'directdownload_support' => 'true',
+  ),
+);

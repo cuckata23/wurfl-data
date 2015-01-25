@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lg_kg320s_ver1',
+  'fallback' => 'lg_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'AEGIS',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '262144',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '64',
+    'ringtone_amr' => 'true',
+    'wallpaper_colors' => '18',
+    'wallpaper' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_width' => '176',
+    'wallpaper_preferred_height' => '220',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_screen_height' => '220',
+    'j2me_screen_width' => '176',
+    'j2me_midp_1_0' => 'true',
+    'max_image_width' => '171',
+    'resolution_width' => '178',
+    'streaming_real_media' => 'none',
+  ),
+);

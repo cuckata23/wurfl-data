@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'lg_cu915_ver1',
+  'fallback' => 'lg_cu920_ver1',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Teleca-Obigo',
+    'mobile_browser_version' => '5.0',
+    'uaprof' => 'http://gsm.lge.com/html/gsm/LG-CU915.xml',
+    'model_name' => 'CU915',
+    'j2me_cldc_1_1' => 'true',
+    'max_data_rate' => '3600',
+    'physical_screen_height' => '65',
+    'physical_screen_width' => '39',
+    'streaming_real_media' => '10',
+    'streaming_vcodec_h263_0' => '10',
+    'streaming_vcodec_h263_3' => '10',
+    'streaming_vcodec_mpeg4_sp' => '0',
+    'playback_acodec_aac' => 'lc',
+    'playback_vcodec_h263_3' => '10',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'wb',
+    'playback_real_media' => '10',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'playback_vcodec_h263_0' => '10',
+    'playback_vcodec_h264_bp' => '1',
+    'directdownload_support' => 'true',
+    'video' => 'true',
+  ),
+);

@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'palm_treo750v_ver1_sube612',
+  'fallback' => 'palm_treo750v_ver1',
+  'capabilities' => 
+  array (
+    'mobile_browser_version' => '6.12',
+    'uaprof' => 'http://downloads.palm.com/profiles/Treo750R2.rdf',
+    'model_name' => 'Treo 750',
+    'brand_name' => 'Palm',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'columns' => '16',
+    'rows' => '36',
+    'resolution_width' => '240',
+    'resolution_height' => '240',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '3000',
+    'wav' => 'true',
+    'sp_midi' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+  ),
+);

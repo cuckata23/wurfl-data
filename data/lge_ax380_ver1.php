@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lge_ax380_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.alltel.net/uaprof/lg/ax380/ax380.xml',
+    'can_skip_aligned_link_row' => 'true',
+    'model_name' => 'AX380',
+    'brand_name' => 'LG',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '22',
+    'max_image_width' => '168',
+    'rows' => '15',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'max_image_height' => '180',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '4096',
+    'wap_push_support' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'max_data_rate' => '9',
+    'streaming_real_media' => 'none',
+  ),
+);

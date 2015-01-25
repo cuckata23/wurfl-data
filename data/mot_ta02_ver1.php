@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'mot_ta02_ver1',
+  'fallback' => 'uptext_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'C330/C333/C336',
+    'brand_name' => 'Motorola',
+    'max_deck_size' => '2048',
+    'resolution_height' => '64',
+    'resolution_width' => '96',
+    'max_image_height' => '48',
+    'greyscale' => 'true',
+    'gif' => 'true',
+    'colors' => '4',
+    'sp_midi' => 'true',
+    'voices' => '16',
+    'imelody' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'connectionless_service_indication' => 'true',
+    'wap_push_support' => 'true',
+    'ems' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'ringtone_voices' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'ringtone_imelody' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

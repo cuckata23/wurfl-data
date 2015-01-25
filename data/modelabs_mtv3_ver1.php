@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'modelabs_mtv3_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Teleca-Obigo',
+    'mobile_browser_version' => '2.0',
+    'uaprof' => 'http://www.modelabs.com/uaprofiles/uapMTV30.xml',
+    'model_name' => 'MTV 3.0',
+    'brand_name' => 'ModeLabs',
+    'max_image_width' => '162',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '144',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'gif_animated' => 'true',
+    'colors' => '65536',
+    'png' => 'false',
+    'html_wi_oma_xhtmlmp_1_0' => 'true',
+    'html_wi_w3_xhtmlbasic' => 'false',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'xhtml_support_level' => '2',
+    'streaming_real_media' => 'none',
+    'directdownload_support' => 'true',
+  ),
+);

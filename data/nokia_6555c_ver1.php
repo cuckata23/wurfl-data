@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'nokia_6555c_ver1',
+  'fallback' => 'nokia_6555_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N6555cr100.xml',
+    'model_name' => '6555c',
+    'release_date' => '2007_january',
+    'columns' => '15',
+    'rows' => '16',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'colors' => '262144',
+    'max_deck_size' => '131072',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'streaming_real_media' => 'none',
+    'streaming_vcodec_h263_0' => '10',
+    'streaming_vcodec_h263_3' => '10',
+    'streaming_vcodec_mpeg4_sp' => '0',
+    'playback_vcodec_h263_3' => '20',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'playback_3g2' => 'true',
+    'playback_vcodec_h263_0' => '20',
+  ),
+);

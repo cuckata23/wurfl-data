@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'sanyo_pls6600_ver1',
+  'fallback' => 'generic_netfront_ver3_1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://device.sprintpcs.com/Sanyo/PLS6600/1001QW.rdf',
+    'model_name' => 'PLS6600',
+    'brand_name' => 'Sanyo',
+    'release_date' => '2008_november',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'columns' => '26',
+    'rows' => '14',
+    'max_image_width' => '228',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '280',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '4096',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

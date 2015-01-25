@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'lg_g5220c_ver1',
+  'fallback' => 'lg_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://gsm.lge.com/html/gsm/LG-G5220c.xml',
+    'model_name' => 'G5220C',
+    'softkey_support' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'wml_1_3',
+    'columns' => '17',
+    'max_image_width' => '120',
+    'rows' => '6',
+    'resolution_height' => '128',
+    'resolution_width' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '5120',
+    'imelody' => 'true',
+    'ems' => 'true',
+    'wallpaper_colors' => '16',
+    'wallpaper_jpg' => 'true',
+    'ringtone_imelody' => 'true',
+    'wallpaper_gif' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

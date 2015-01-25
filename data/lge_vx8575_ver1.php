@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lge_vx8575_ver1',
+  'fallback' => 'generic_polaris_6',
+  'capabilities' => 
+  array (
+    'pointing_method' => 'touchscreen',
+    'mobile_browser_version' => '6.2',
+    'uaprof' => 'http://uaprof.vtext.com/lg/VX8575/VX8575.xml',
+    'model_name' => '8575',
+    'brand_name' => 'LG',
+    'model_extra_info' => 'Verizon',
+    'marketing_name' => 'Chocolate Touch',
+    'release_date' => '2009_november',
+    'max_image_width' => '240',
+    'resolution_width' => '240',
+    'resolution_height' => '400',
+    'max_image_height' => '400',
+    'colors' => '262144',
+    'max_data_rate' => '384',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'playback_mp4' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'css_spriting' => 'true',
+  ),
+);

@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_cc03_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-CC03.xml',
+    'model_name' => 'SGH-CC03',
+    'brand_name' => 'Samsung',
+    'release_date' => '2008_november',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_3' => 'true',
+    'columns' => '8',
+    'rows' => '14',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '16384',
+    'wap_push_support' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'max_data_rate' => '40',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'samsung_f510_ver1',
+  'fallback' => 'samsung_f500_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/F510.xml',
+    'model_name' => 'F510',
+    'release_date' => '2011_may',
+    'softkey_support' => 'true',
+    'physical_screen_height' => '49',
+    'columns' => '16',
+    'physical_screen_width' => '37',
+    'rows' => '12',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '2048000',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1600',
+    'mms_max_height' => '1200',
+    'mms_gif_static' => 'true',
+    'mms_vcard' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+  ),
+);

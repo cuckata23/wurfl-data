@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'sharp_s01sh_ver1',
+  'fallback' => 'generic_ms_winmo5',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'mobile_browser_version' => '6.12',
+    'model_name' => 'S01SH',
+    'brand_name' => 'Sharp',
+    'marketing_name' => 'EM-ONE',
+    'wifi' => 'true',
+    'max_data_rate' => '1800',
+    'physical_screen_height' => '54',
+    'physical_screen_width' => '90',
+    'max_image_width' => '790',
+    'resolution_width' => '800',
+    'resolution_height' => '480',
+    'max_image_height' => '460',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_wmv' => '7',
+    'playback_3g2' => 'true',
+    'pdf_support' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'sharp_tq_gx_e30_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'TQ-GX-E30',
+    'brand_name' => 'Sharp',
+    'max_image_width' => '234',
+    'resolution_height' => '320',
+    'resolution_width' => '240',
+    'max_image_height' => '320',
+    'colors' => '262144',
+    'wallpaper_png' => 'true',
+    'ringtone_mp3' => 'true',
+    'wallpaper_colors' => '18',
+    'wallpaper' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

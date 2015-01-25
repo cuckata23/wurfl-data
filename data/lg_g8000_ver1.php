@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lg_g8000_ver1',
+  'fallback' => 'lg_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'G8000',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'wml_1_3',
+    'ringtone_voices' => '40',
+    'wallpaper_colors' => '8',
+    'wallpaper' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'sp_midi' => 'true',
+    'voices' => '40',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'wap_push_support' => 'true',
+    'max_image_width' => '176',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '220',
+    'ems' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

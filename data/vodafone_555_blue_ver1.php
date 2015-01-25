@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'vodafone_555_blue_ver1',
+  'fallback' => 'generic_opera_mini_version5',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'uaprof' => 'http://www-ccpp.tcl-ta.com/files/Vodafone-555-Blue.rdf',
+    'model_name' => '555 Blue',
+    'brand_name' => 'Vodafone',
+    'release_date' => '2011_august',
+    'physical_screen_height' => '37',
+    'physical_screen_width' => '49',
+    'max_image_width' => '320',
+    'resolution_width' => '320',
+    'resolution_height' => '240',
+    'max_image_height' => '240',
+    'playback_3gpp' => 'true',
+    'playback_mp4' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_vcodec_h263_0' => '10',
+    'streaming_3gpp' => 'true',
+    'streaming_acodec_amr' => 'nb',
+    'streaming_preferred_protocol' => 'rtsp',
+    'streaming_video' => 'true',
+    'streaming_mp4' => 'true',
+    'max_data_rate' => '200',
+  ),
+);

@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'mot_ic602_ver1',
+  'fallback' => 'generic_xhtml',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Teleca-Obigo',
+    'mobile_browser_version' => 'Q04C1',
+    'uaprof' => 'http://device.sprintpcs.com/Motorola/ic602/1500.rdf',
+    'model_name' => 'ic602',
+    'brand_name' => 'Motorola',
+    'release_date' => '2006_june',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_3' => 'true',
+    'columns' => '14',
+    'rows' => '9',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '65536',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

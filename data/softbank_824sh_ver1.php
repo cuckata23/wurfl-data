@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'softbank_824sh_ver1',
+  'fallback' => 'softbank_generic',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Access Netfront',
+    'mobile_browser_version' => '3.4',
+    'model_name' => '824SH',
+    'marketing_name' => 'The Premium',
+    'dual_orientation' => 'true',
+    'max_image_width' => '230',
+    'resolution_width' => '240',
+    'resolution_height' => '400',
+    'max_image_height' => '350',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+    'max_data_rate' => '1800',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'wallpaper' => 'true',
+    'wallpaper_max_height' => '240',
+    'wallpaper_max_width' => '400',
+    'wallpaper_preferred_width' => '400',
+    'wallpaper_preferred_height' => '240',
+    'flash_lite_version' => '2_0',
+  ),
+);

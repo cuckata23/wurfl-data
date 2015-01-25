@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'samsung_a300_ver1',
+  'fallback' => 'uptext_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-A300',
+    'brand_name' => 'Samsung',
+    'columns' => '16',
+    'max_image_width' => '122',
+    'rows' => '4',
+    'resolution_width' => '128',
+    'max_image_height' => '30',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '65536',
+    'ringtone_voices' => '16',
+    'wallpaper' => 'true',
+    'wallpaper_colors' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_preferred_width' => '128',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_height' => '128',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

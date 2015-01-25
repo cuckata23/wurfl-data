@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'lg_ax490_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.alltel.net/uaprof/lg/ax490/ax490.xml',
+    'model_name' => 'AX490',
+    'brand_name' => 'LG',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '16',
+    'rows' => '11',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '262144',
+    'max_deck_size' => '10000',
+    'wap_push_support' => 'true',
+    'sp_midi' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'max_data_rate' => '9',
+    'streaming_real_media' => 'none',
+  ),
+);

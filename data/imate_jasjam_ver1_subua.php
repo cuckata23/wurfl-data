@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'imate_jasjam_ver1_subua',
+  'fallback' => 'imate_jasjam_ver1',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'pointing_method' => 'stylus',
+    'model_name' => 'JASJAM',
+    'brand_name' => 'i-mate',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '40',
+    'wallpaper' => 'true',
+    'wallpaper_colors' => '16',
+    'wallpaper_preferred_width' => '240',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_height' => '320',
+    'wallpaper_gif' => 'true',
+    'oma_support' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'physical_screen_height' => '57',
+    'physical_screen_width' => '43',
+    'max_image_width' => '224',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '280',
+    'wifi' => 'true',
+    'pdf_support' => 'true',
+  ),
+);

@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'lg_vs840_ver1',
+  'fallback' => 'generic_android_ver2_3',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://uaprof.vtext.com/lge/vs840/vs840.xml',
+    'model_name' => 'VS840 4G',
+    'brand_name' => 'LG',
+    'marketing_name' => 'Lucid',
+    'release_date' => '2012_may',
+    'table_support' => 'true',
+    'physical_screen_height' => '88',
+    'columns' => '44',
+    'density_class' => '1.5',
+    'physical_screen_width' => '53',
+    'rows' => '48',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

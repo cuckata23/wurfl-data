@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'tmobile_g2_ver1',
+  'fallback' => 'htc_hero_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'G2 Touch',
+    'brand_name' => 'T-Mobile',
+    'release_date' => '2009_july',
+    'physical_screen_height' => '68',
+    'physical_screen_width' => '45',
+    'resolution_height' => '800',
+    'resolution_width' => '480',
+    'xhtml_file_upload' => 'supported',
+    'playback_acodec_aac' => 'lc',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'progressive_download' => 'true',
+    'playback_vcodec_mpeg4_sp' => '3',
+    'playback_vcodec_h263_0' => '30',
+    'playback_vcodec_h264_bp' => '3.0',
+    'streaming_vcodec_h263_0' => '30',
+    'streaming_acodec_aac' => 'lc',
+    'streaming_3gpp' => 'true',
+    'streaming_vcodec_h264_bp' => '1.3',
+    'streaming_acodec_amr' => 'nb',
+    'streaming_vcodec_mpeg4_sp' => '3',
+    'streaming_video' => 'true',
+    'streaming_mp4' => 'true',
+  ),
+);

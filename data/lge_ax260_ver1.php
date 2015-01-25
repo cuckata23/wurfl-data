@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lge_ax260_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.alltel.net/uaprof/lg/ax260/ax260.xml',
+    'model_name' => 'AX260',
+    'brand_name' => 'LG',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '22',
+    'rows' => '15',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '4096',
+    'wap_push_support' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'max_data_rate' => '9',
+    'streaming_real_media' => 'none',
+  ),
+);

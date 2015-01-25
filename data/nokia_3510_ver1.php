@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'nokia_3510_ver1',
+  'fallback' => 'nokia_generic_series30',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/N3510r100.xml',
+    'model_name' => '3510',
+    'multipart_support' => 'true',
+    'bmp' => 'true',
+    'max_deck_size' => '32200',
+    'mms_png' => 'true',
+    'mms_max_size' => '30000',
+    'mms_nokia_operatorlogo' => 'true',
+    'mms_max_width' => '352',
+    'mms_spmidi' => 'true',
+    'mms_gif_static' => 'true',
+    'mms_max_height' => '288',
+    'mms_nokia_ringingtone' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_nokia_wallpaper' => 'true',
+    'mms_wbmp' => 'true',
+    'receiver' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'mms_gif_animated' => 'true',
+    'ringtone_voices' => '16',
+    'streaming_real_media' => 'none',
+    'cookie_support' => 'true',
+  ),
+);

@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_c426_ver1',
+  'fallback' => 'samsung_sgh_c425_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-C426.xml',
+    'model_name' => 'SGH-C426',
+    'release_date' => '2007_may',
+    'columns' => '8',
+    'rows' => '14',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'colors' => '65536',
+    'max_deck_size' => '16384',
+    'mms_max_size' => '102400',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'ringtone_amr' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'ringtone' => 'true',
+    'oma_support' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'ringtone_spmidi' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

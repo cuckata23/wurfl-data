@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'sie_c81_ver1',
+  'fallback' => 'opwv_v7_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'C81',
+    'brand_name' => 'Siemens',
+    'max_image_width' => '124',
+    'resolution_height' => '176',
+    'resolution_width' => '132',
+    'max_image_height' => '176',
+    'colors' => '262144',
+    'max_deck_size' => '50000',
+    'ringtone_mp3' => 'true',
+    'wallpaper' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

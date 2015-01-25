@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'nokia_3155i_ver1',
+  'fallback' => 'nokia_series40_opwv62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => '3155i',
+    'release_date' => '2005_march',
+    'ringtone_voices' => '40',
+    'ringtone_mp3' => 'true',
+    'ringtone_amr' => 'true',
+    'picture_colors' => '18',
+    'ringtone_qcelp' => 'true',
+    'ringtone_aac' => 'true',
+    'qcelp' => 'true',
+    'aac' => 'true',
+    'voices' => '40',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_max_jar_size' => '356352',
+    'j2me_cldc_1_1' => 'true',
+    'streaming_real_media' => 'none',
+    'resolution_height' => '160',
+    'colors' => '262144',
+    'playback_acodec_aac' => 'lc',
+    'playback_acodec_amr' => 'nb',
+    'playback_acodec_qcelp' => 'true',
+  ),
+);

@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_omnia7_ver1_subuamodel',
+  'fallback' => 'samsung_omnia7_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-i917',
+    'brand_name' => 'Samsung',
+    'release_date' => '2011_january',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'wap_push_support' => 'true',
+    'mms_png' => 'true',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '1600',
+    'mms_max_height' => '1600',
+    'mms_gif_static' => 'true',
+    'mms_wav' => 'true',
+    'mms_bmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'wav' => 'true',
+    'mp3' => 'true',
+  ),
+);

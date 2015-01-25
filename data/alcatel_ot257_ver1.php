@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'alcatel_ot257_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'model_name' => 'One Touch 257',
+    'brand_name' => 'Alcatel',
+    'colors' => '4096',
+    'max_image_width' => '102',
+    'resolution_height' => '80',
+    'resolution_width' => '102',
+    'max_image_height' => '60',
+    'screensaver_preferred_width' => '101',
+    'ringtone_mp3' => 'true',
+    'wallpaper' => 'true',
+    'ringtone_amr' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_preferred_width' => '101',
+    'screensaver_preferred_height' => '80',
+    'wallpaper_preferred_height' => '80',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'mp3' => 'true',
+    'amr' => 'true',
+    'xhtml_support_level' => '-1',
+    'preferred_markup' => 'wml_1_1',
+    'streaming_real_media' => 'none',
+  ),
+);

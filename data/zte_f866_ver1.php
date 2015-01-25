@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'zte_f866_ver1',
+  'fallback' => 'generic_netfront_ver3_2',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Access Netfront',
+    'mobile_browser_version' => '3.2',
+    'model_name' => 'F866',
+    'brand_name' => 'ZTE',
+    'voices' => '72',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'png' => 'true',
+    'ringtone_mp3' => 'true',
+    'wallpaper_colors' => '10',
+    'wallpaper' => 'true',
+    'ringtone_amr' => 'true',
+    'wallpaper_preferred_width' => '176',
+    'wallpaper_preferred_height' => '200',
+    'ringtone_wav' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'max_image_width' => '168',
+    'resolution_width' => '176',
+    'resolution_height' => '220',
+    'max_image_height' => '180',
+    'streaming_real_media' => 'none',
+  ),
+);

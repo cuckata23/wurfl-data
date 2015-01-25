@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lg_bp5000_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://mms.cellcom.com/uaprofs/lg-vx5000.xml',
+    'model_name' => 'BP5000',
+    'brand_name' => 'LG',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '12',
+    'rows' => '16',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'max_image_height' => '130',
+    'colors' => '65536',
+    'max_deck_size' => '10000',
+    'wap_push_support' => 'true',
+    'mms_png' => 'true',
+    'mms_max_width' => '640',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_wmlc' => 'true',
+    'mms_bmp' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

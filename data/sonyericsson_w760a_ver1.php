@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'sonyericsson_w760a_ver1',
+  'fallback' => 'sonyericsson_w760i_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'W760a',
+    'columns' => '16',
+    'rows' => '16',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'colors' => '262144',
+    'max_deck_size' => '30000',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '2048',
+    'mms_max_height' => '1536',
+    'streaming_real_media' => 'none',
+    'streaming_vcodec_h263_0' => '10',
+    'streaming_vcodec_mpeg4_sp' => '0',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'flash_lite_version' => '2_0',
+    'fl_wallpaper' => 'true',
+    'fl_browser' => 'true',
+    'fl_screensaver' => 'true',
+    'ajax_xhr_type' => 'none',
+    'css_spriting' => 'true',
+  ),
+);

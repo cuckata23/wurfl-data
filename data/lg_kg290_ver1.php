@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lg_kg290_ver1',
+  'fallback' => 'lg_kg245_ver1',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Teleca-Obigo',
+    'mobile_browser_version' => '2.0',
+    'uaprof' => 'http://gsm.lge.com/html/gsm/LG-KG290.xml',
+    'model_name' => 'KG290',
+    'uaprof2' => 'http://gsm.lge.com/html/gsm/LG-KG290-SD.xml',
+    'physical_screen_height' => '35',
+    'physical_screen_width' => '28',
+    'max_image_width' => '121',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '110',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'max_data_rate' => '40',
+    'accept_third_party_cookie' => 'false',
+    'streaming_real_media' => 'none',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'playback_vcodec_mpeg4_sp' => '0',
+    'directdownload_support' => 'true',
+    'video' => 'true',
+    'aac' => 'true',
+    'image_inlining' => 'true',
+  ),
+);

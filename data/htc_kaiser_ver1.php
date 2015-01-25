@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'htc_kaiser_ver1',
+  'fallback' => 'generic_ms_winmo6',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'mobile_browser_version' => '7.6',
+    'uaprof' => 'http://www.htcmms.com.tw/gen/Kaiser-1.0.xml',
+    'model_name' => 'Kaiser',
+    'brand_name' => 'HTC',
+    'physical_screen_height' => '57',
+    'physical_screen_width' => '43',
+    'wifi' => 'true',
+    'max_data_rate' => '1800',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'pdf_support' => 'true',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_wmv' => '7',
+    'playback_3g2' => 'true',
+    'streaming_real_media' => 'none',
+    'oma_support' => 'true',
+    'oma_v_1_0_separate_delivery' => 'true',
+    'xhtml_file_upload' => 'supported',
+  ),
+);

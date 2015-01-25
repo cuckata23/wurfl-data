@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'lg_ax390_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'AX390',
+    'brand_name' => 'LG',
+    'release_date' => '2008_october',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'columns' => '16',
+    'rows' => '8',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '128',
+    'max_image_height' => '100',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '10000',
+    'wap_push_support' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

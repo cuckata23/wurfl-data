@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_i997_ver1_subr',
+  'fallback' => 'samsung_sgh_i997_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-I997R.xml',
+    'model_name' => 'SGH-I997R',
+    'device_os_version' => '2.3',
+    'release_date' => '2012_january',
+    'columns' => '25',
+    'rows' => '21',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
+    'colors' => '65536',
+    'mms_3gpp' => 'true',
+    'mms_max_size' => '614400',
+    'mms_max_width' => '1280',
+    'sender' => 'true',
+    'mms_max_height' => '1024',
+    'mms_video' => 'true',
+    'mms_midi_polyphonic' => 'true',
+    'mms_3gpp2' => 'true',
+    'receiver' => 'true',
+    'mms_vcalendar' => 'true',
+    'mms_mp3' => 'true',
+    'mms_mmf' => 'true',
+    'mms_xmf' => 'true',
+    'mms_mp4' => 'true',
+    'mms_gif_animated' => 'true',
+  ),
+);

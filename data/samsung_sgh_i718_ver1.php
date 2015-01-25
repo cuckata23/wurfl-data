@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_sgh_i718_ver1',
+  'fallback' => 'generic_ms_winmo5',
+  'capabilities' => 
+  array (
+    'has_qwerty_keyboard' => 'true',
+    'pointing_method' => 'stylus',
+    'model_name' => 'SGH-I718',
+    'brand_name' => 'Samsung',
+    'release_date' => '2008_january',
+    'wallpaper_colors' => '16',
+    'wallpaper_preferred_width' => '120',
+    'wallpaper_preferred_height' => '160',
+    'screensaver' => 'true',
+    'physical_screen_height' => '57',
+    'physical_screen_width' => '43',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'wifi' => 'true',
+    'max_data_rate' => '200',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_wmv' => '7',
+    'playback_3g2' => 'true',
+    'streaming_real_media' => 'none',
+    'xhtml_file_upload' => 'supported',
+  ),
+);

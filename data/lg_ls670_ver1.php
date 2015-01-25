@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'lg_ls670_ver1',
+  'fallback' => 'generic_android_ver2_2',
+  'capabilities' => 
+  array (
+    'model_name' => 'LS670',
+    'brand_name' => 'LG',
+    'marketing_name' => 'Optimus S',
+    'playback_acodec_aac' => 'lc',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_acodec_qcelp' => 'true',
+    'progressive_download' => 'true',
+    'playback_3g2' => 'true',
+    'playback_vcodec_mpeg4_sp' => '3',
+    'playback_vcodec_h263_0' => '30',
+    'playback_vcodec_h264_bp' => '1.3',
+    'hinted_progressive_download' => 'true',
+    'streaming_vcodec_h263_0' => '-1',
+    'streaming_acodec_aac' => 'lc',
+    'streaming_3gpp' => 'true',
+    'streaming_vcodec_h264_bp' => '1.3',
+    'streaming_video' => 'true',
+    'streaming_mp4' => 'true',
+    'density_class' => '1.0',
+    'resolution_height' => '480',
+    'resolution_width' => '320',
+  ),
+);

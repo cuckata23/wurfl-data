@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'nokia_lumia_800_ver1',
+  'fallback' => 'generic_ms_nokia_phone_os7_5',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia800r100.xml',
+    'model_name' => 'Lumia 800',
+    'physical_screen_height' => '81',
+    'columns' => '16',
+    'physical_screen_width' => '49',
+    'max_image_width' => '320',
+    'rows' => '12',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
+    'max_image_height' => '480',
+    'max_data_rate' => '14000',
+    'picture_jpg' => 'true',
+    'picture_gif' => 'true',
+    'picture_bmp' => 'true',
+    'picture_colors' => '16',
+    'picture_png' => 'true',
+    'picture_wbmp' => 'true',
+    'playback_vcodec_h263_3' => '20',
+    'playback_acodec_amr' => 'wb',
+    'playback_vcodec_h263_0' => '20',
+    'amr' => 'true',
+    'bmp' => 'true',
+    'wbmp' => 'true',
+    'tiff' => 'true',
+  ),
+);

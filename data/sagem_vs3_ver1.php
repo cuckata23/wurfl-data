@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'sagem_vs3_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'VS3',
+    'brand_name' => 'Sagem',
+    'max_image_width' => '120',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '140',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'wallpaper_png' => 'true',
+    'ringtone_voices' => '40',
+    'ringtone_mmf' => 'true',
+    'wallpaper_colors' => '16',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'voices' => '16',
+    'mmf' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'sie_ap75_ver1',
+  'fallback' => 'opwv_v6_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'AP75',
+    'brand_name' => 'Siemens',
+    'max_image_width' => '128',
+    'resolution_height' => '128',
+    'resolution_width' => '128',
+    'max_image_height' => '128',
+    'colors' => '65536',
+    'wallpaper_png' => 'true',
+    'ringtone_voices' => '16',
+    'wallpaper_colors' => '16',
+    'wallpaper' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'voices' => '16',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

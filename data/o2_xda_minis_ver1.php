@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'o2_xda_minis_ver1',
+  'fallback' => 'htc_wizard_prodigy_ver1',
+  'capabilities' => 
+  array (
+    'physical_screen_height' => '57',
+    'columns' => '16',
+    'physical_screen_width' => '43',
+    'rows' => '36',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'colors' => '65536',
+    'max_deck_size' => '35000',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '1280',
+    'mms_max_height' => '1280',
+    'model_name' => 'XDA/Mini',
+    'uaprof' => 'http://www.htcmms.com.tw/gen/Wizard-2.0.xml',
+    'brand_name' => 'O2',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_wmv' => '7',
+    'playback_3g2' => 'true',
+    'streaming_real_media' => 'none',
+    'oma_support' => 'true',
+    'css_spriting' => 'true',
+    'xhtml_file_upload' => 'supported',
+  ),
+);

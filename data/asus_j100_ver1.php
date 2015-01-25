@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'asus_j100_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'model_name' => 'J100',
+    'brand_name' => 'Asus',
+    'max_image_width' => '118',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '120',
+    'xhtml_table_support' => 'true',
+    'html_wi_oma_xhtmlmp_1_0' => 'true',
+    'html_wi_w3_xhtmlbasic' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'xhtml_support_level' => '1',
+    'sp_midi' => 'true',
+    'voices' => '16',
+    'mmf' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'j2me_cldc_1_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'directdownload_support' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

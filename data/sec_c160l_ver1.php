@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'sec_c160l_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-C160L',
+    'uaprof' => 'http://www.gsmarena.com/samsung_c160-1922.php',
+    'uaprof2' => 'http://www.areamobile.de/datenblatt/Samsung/SGH-C160/1154_4.html',
+    'brand_name' => 'Samsung',
+    'max_image_width' => '120',
+    'resolution_height' => '128',
+    'resolution_width' => '128',
+    'max_image_height' => '128',
+    'colors' => '65536',
+    'ringtone_voices' => '16',
+    'wallpaper' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'ringtone' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_midp_1_0' => 'true',
+    'sender' => 'true',
+    'receiver' => 'true',
+    'ems' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'xhtml_support_level' => '-1',
+    'preferred_markup' => 'wml_1_1',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'toshiba_ts608_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'TS 608',
+    'brand_name' => 'Toshiba',
+    'physical_screen_height' => '39',
+    'physical_screen_width' => '31',
+    'max_image_width' => '169',
+    'resolution_height' => '220',
+    'resolution_width' => '176',
+    'max_image_height' => '220',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'colors' => '65536',
+    'ringtone_mp3' => 'true',
+    'wallpaper' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'wallpaper_bmp' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'mp3' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

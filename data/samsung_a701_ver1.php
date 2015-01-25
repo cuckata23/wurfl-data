@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'samsung_a701_ver1',
+  'fallback' => 'generic_netfront_ver3',
+  'capabilities' => 
+  array (
+    'model_name' => 'SGH-A701',
+    'brand_name' => 'Samsung',
+    'preferred_markup' => 'html_wi_oma_xhtmlmp_1_0',
+    'wallpaper_png' => 'true',
+    'ringtone_mp3' => 'true',
+    'ringtone_voices' => '64',
+    'wallpaper' => 'true',
+    'wallpaper_colors' => '18',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_preferred_width' => '240',
+    'wallpaper_jpg' => 'true',
+    'wallpaper_preferred_height' => '320',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'video' => 'true',
+    'screensaver' => 'true',
+    'j2me_midp_2_0' => 'true',
+    'j2me_cldc_1_1' => 'true',
+    'j2me_screen_height' => '320',
+    'j2me_screen_width' => '240',
+    'max_image_width' => '120',
+    'playback_mp4' => 'true',
+    'streaming_real_media' => 'none',
+    'image_inlining' => 'true',
+  ),
+);

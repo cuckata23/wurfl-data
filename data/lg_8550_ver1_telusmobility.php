@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lg_8550_ver1_telusmobility',
+  'fallback' => 'lg_generic',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Openwave Mobile Browser',
+    'mobile_browser_version' => '6.2.3.9',
+    'uaprof' => 'http://device.telusmobility.com/lg/LG8550-0.rdf',
+    'model_name' => 'LG8550',
+    'marketing_name' => 'Chocolate Spin',
+    'physical_screen_height' => '49',
+    'columns' => '15',
+    'physical_screen_width' => '37',
+    'rows' => '17',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'colors' => '262144',
+    'max_deck_size' => '4096',
+    'mms_max_size' => '819200',
+    'mms_max_width' => '1600',
+    'mms_max_height' => '1200',
+    'max_data_rate' => '384',
+    'streaming_real_media' => 'none',
+    'directdownload_support' => 'true',
+    'oma_support' => 'true',
+    'aac' => 'true',
+    'mp3' => 'true',
+  ),
+);

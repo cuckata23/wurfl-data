@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'samsung_sch_a645_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'mobile_browser' => 'Openwave Mobile Browser',
+    'mobile_browser_version' => '6.2',
+    'uaprof' => 'http://www.alltel.net/uaprof/samsung/a645/a645.xml',
+    'model_name' => 'SCH-A645',
+    'brand_name' => 'Samsung',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'wml_1_2' => 'true',
+    'wml_1_3' => 'true',
+    'columns' => '12',
+    'rows' => '15',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'jpg' => 'true',
+    'wbmp' => 'true',
+    'png' => 'true',
+    'colors' => '65536',
+    'max_deck_size' => '16000',
+    'wap_push_support' => 'true',
+    'midi_monophonic' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'lg_mx8700_ver1',
+  'fallback' => 'opwv_v62_generic',
+  'capabilities' => 
+  array (
+    'model_name' => 'MX8700',
+    'brand_name' => 'LG',
+    'softkey_support' => 'true',
+    'columns' => '15',
+    'rows' => '17',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'colors' => '65536',
+    'wap_push_support' => 'true',
+    'mms_png' => 'true',
+    'mms_max_size' => '819200',
+    'mms_max_width' => '1600',
+    'mms_spmidi' => 'true',
+    'mms_max_height' => '1200',
+    'mms_gif_static' => 'true',
+    'mms_wav' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_amr' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'streaming_real_media' => 'none',
+  ),
+);

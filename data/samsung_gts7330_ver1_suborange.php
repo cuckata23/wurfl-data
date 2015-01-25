@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'samsung_gts7330_ver1_suborange',
+  'fallback' => 'samsung_gts7330_ver1',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/S7330UAProf.xml',
+    'model_name' => 'SGH S7330',
+    'model_extra_info' => 'Orange',
+    'release_date' => '2009_march',
+    'columns' => '20',
+    'rows' => '16',
+    'resolution_width' => '240',
+    'resolution_height' => '320',
+    'max_image_height' => '280',
+    'colors' => '65536',
+    'max_deck_size' => '5000',
+    'streaming_vcodec_h263_0' => '10',
+    'streaming_3g2' => 'true',
+    'streaming_3gpp' => 'true',
+    'streaming_vcodec_h264_bp' => '1',
+    'streaming_vcodec_mpeg4_sp' => '0',
+    'mms_max_size' => '307200',
+    'mms_max_width' => '0',
+    'mms_max_height' => '0',
+    'oma_support' => 'true',
+    'aac' => 'true',
+    'oma_v_1_0_separate_delivery' => 'true',
+  ),
+);

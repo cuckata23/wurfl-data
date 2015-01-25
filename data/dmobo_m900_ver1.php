@@ -1,0 +1,32 @@
+<?php
+return array (
+  'id' => 'dmobo_m900_ver1',
+  'fallback' => 'generic_mobile',
+  'capabilities' => 
+  array (
+    'model_name' => 'M900',
+    'brand_name' => 'Dmobo',
+    'max_image_width' => '128',
+    'resolution_height' => '160',
+    'resolution_width' => '128',
+    'max_image_height' => '160',
+    'colors' => '16777216',
+    'ringtone_voices' => '64',
+    'wallpaper' => 'true',
+    'ringtone_mmf' => 'true',
+    'screensaver_gif' => 'true',
+    'ringtone_midi_monophonic' => 'true',
+    'wallpaper_jpg' => 'true',
+    'ringtone' => 'true',
+    'wallpaper_gif' => 'true',
+    'ringtone_midi_polyphonic' => 'true',
+    'screensaver' => 'true',
+    'voices' => '64',
+    'mmf' => 'true',
+    'midi_monophonic' => 'true',
+    'midi_polyphonic' => 'true',
+    'xhtml_support_level' => '-1',
+    'preferred_markup' => 'wml_1_1',
+    'streaming_real_media' => 'none',
+  ),
+);

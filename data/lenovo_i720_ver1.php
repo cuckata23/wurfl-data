@@ -1,0 +1,33 @@
+<?php
+return array (
+  'id' => 'lenovo_i720_ver1',
+  'fallback' => 'generic_xhtml',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://www.lenovomobile.com/admin/module/product/DownFile/download_2006815893438.xml',
+    'model_name' => 'i720',
+    'brand_name' => 'Lenovo',
+    'softkey_support' => 'true',
+    'table_support' => 'true',
+    'wml_1_1' => 'true',
+    'max_image_width' => '120',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'jpg' => 'true',
+    'gif' => 'true',
+    'wbmp' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '12000',
+    'mms_max_size' => '51200',
+    'mms_max_width' => '240',
+    'mms_max_height' => '240',
+    'mms_gif_static' => 'true',
+    'mms_vcard' => 'true',
+    'mms_wbmp' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'max_data_rate' => '40',
+    'streaming_real_media' => 'none',
+  ),
+);

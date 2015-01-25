@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'generic_netfront_ver3_3',
+  'fallback' => 'generic_netfront_ver3_2',
+  'capabilities' => 
+  array (
+    'mobile_browser_version' => '3.3',
+    'model_name' => 'NetFront Ver. 3.3',
+    'html_web_3_2' => 'true',
+    'preferred_markup' => 'html_web_4_0',
+    'xhtml_support_level' => '3',
+    'html_web_4_0' => 'true',
+    'max_deck_size' => '100000',
+    'colors' => '65536',
+    'xhtmlmp_preferred_mime_type' => 'application/xhtml+xml',
+    'streaming_3gpp' => 'true',
+    'streaming_video' => 'true',
+    'streaming_mp4' => 'true',
+    'video' => 'true',
+    'ajax_xhr_type' => 'none',
+    'ajax_support_getelementbyid' => 'true',
+    'ajax_support_event_listener' => 'true',
+    'ajax_manipulate_dom' => 'true',
+    'ajax_support_javascript' => 'true',
+    'ajax_support_inner_html' => 'true',
+    'ajax_manipulate_css' => 'true',
+    'ajax_support_events' => 'true',
+    'max_image_width' => '120',
+    'image_inlining' => 'true',
+  ),
+);

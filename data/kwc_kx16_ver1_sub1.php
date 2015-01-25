@@ -1,0 +1,30 @@
+<?php
+return array (
+  'id' => 'kwc_kx16_ver1_sub1',
+  'fallback' => 'kwc_kx16_ver1',
+  'capabilities' => 
+  array (
+    'model_name' => 'KWC-KX160B',
+    'columns' => '12',
+    'rows' => '6',
+    'resolution_width' => '128',
+    'resolution_height' => '160',
+    'bmp' => 'true',
+    'colors' => '65536',
+    'nokia_voice_call' => 'true',
+    'wta_phonebook' => 'true',
+    'max_deck_size' => '4096',
+    'mms_png' => 'true',
+    'mms_max_size' => '300000',
+    'mms_max_width' => '640',
+    'mms_spmidi' => 'true',
+    'mms_max_height' => '480',
+    'mms_gif_static' => 'true',
+    'mms_midi_monophonic' => 'true',
+    'mms_bmp' => 'true',
+    'mms_jpeg_baseline' => 'true',
+    'wav' => 'true',
+    'midi_monophonic' => 'true',
+    'imelody' => 'true',
+  ),
+);

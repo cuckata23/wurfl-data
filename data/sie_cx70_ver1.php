@@ -1,0 +1,31 @@
+<?php
+return array (
+  'id' => 'sie_cx70_ver1',
+  'fallback' => 'sie_platform65_generic',
+  'capabilities' => 
+  array (
+    'uaprof' => 'http://communication-market.siemens.de/portal/UAProf/UAP.aspx?device=CX70&v=25',
+    'model_name' => 'CX70',
+    'columns' => '18',
+    'rows' => '8',
+    'max_image_width' => '132',
+    'resolution_height' => '176',
+    'resolution_width' => '132',
+    'max_image_height' => '156',
+    'screensaver_preferred_width' => '132',
+    'ringtone_mmf' => 'true',
+    'wallpaper_preferred_width' => '132',
+    'screensaver_preferred_height' => '176',
+    'wallpaper_preferred_height' => '176',
+    'picture_preferred_width' => '132',
+    'oma_support' => 'true',
+    'video' => 'true',
+    'picture_preferred_height' => '176',
+    'mms_mp4' => 'true',
+    'playback_mp4' => 'true',
+    'playback_3gpp' => 'true',
+    'playback_acodec_amr' => 'nb',
+    'playback_vcodec_h263_0' => '10',
+    'streaming_real_media' => 'none',
+  ),
+);

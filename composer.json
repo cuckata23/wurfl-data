@@ -1,0 +1,39 @@
+{
+    "name": "mimmi20/wurfl-data",
+    "description": "a Data Store that holds decompiled data from Wurfl",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["Browser", "user agent", "http", "parser", "user-agent"],
+    "homepage": "https://github.com/mimmi20/wurfl-data",
+    "authors": [
+        {
+            "name": "Thomas Müller",
+            "homepage": "https://github.com/mimmi20",
+            "role": "Developer"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/mimmi20/wurfl-data/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mimmi20/wurfl-data/issues",
+        "source": "https://github.com/mimmi20/wurfl-data"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "WurflData\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WurflDataTest\\": "tests/"
+        }
+    }
+}
