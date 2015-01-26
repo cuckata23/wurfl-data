@@ -53,9 +53,15 @@ class Loader
      */
     public static function load($wurflKey)
     {
-        /** @var array $data */
-        $data = require '../data/' . $wurflKey . '.php';
+        $allData = array();
+        while (strcmp($wurflKey, "root")) {
+            /** @var array $data */
+            $data = require '../data/' . $wurflKey . '.php';
 
-        return $data;
+            $wurflKey = $data['fallBack'];
+            $allData = array_merge($allData, $data['capabilities']);
+        }
+
+        return $allData;
     }
 }
