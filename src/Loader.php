@@ -54,11 +54,12 @@ class Loader
     public static function load($wurflKey)
     {
         $allData = array();
-        while (strcmp($wurflKey, "root")) {
-            /** @var array $data */
-            $data = require '../data/' . $wurflKey . '.php';
 
-            $wurflKey = $data['fallBack'];
+        while (strcmp($wurflKey, 'root')) {
+            /** @var array $data */
+            $data = require __DIR__ . '/../data/' . $wurflKey . '.php';
+
+            $wurflKey = $data['fallback'];
             $allData = array_merge($allData, $data['capabilities']);
         }
 
