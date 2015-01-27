@@ -51,8 +51,6 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
      */
     public function testConstructorAddsExpectedCommands()
     {
-        $loader = new Loader();
-
         $expected = array(
             'mobile_browser'                                    => 'Android Webkit',
             'nokia_feature_pack'                                => 0,
