@@ -60,8 +60,14 @@ class Loader
                 break;
             }
 
+            $filename = __DIR__ . '/../data/' . $wurflKey . '.php';
+
+            if (!file_exists($filename)) {
+                break;
+            }
+
             /** @var array $data */
-            $data = require __DIR__ . '/../data/' . $wurflKey . '.php';
+            $data = require $filename;
 
             $wurflKey = $data['fallback'];
             $allData = array_merge($allData, $data['capabilities']);
