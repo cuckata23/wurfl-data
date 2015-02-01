@@ -56,6 +56,10 @@ class Loader
         $allData = array();
 
         while (strcmp($wurflKey, 'root')) {
+            if (!$wurflKey) {
+                break;
+            }
+
             /** @var array $data */
             $data = require __DIR__ . '/../data/' . $wurflKey . '.php';
 

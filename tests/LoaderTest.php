@@ -586,6 +586,12 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
         $result = Loader::load('35phone_q4350_ver1');
         self::assertInternalType('array', $result);
         self::assertSame(0, count(array_diff_key($expected, $result)));
-        //self::assertSame($expected, $result);
+    }
+
+    public function testEmptyKey()
+    {
+        $result = Loader::load('');
+
+        self::assertSame(array(), $result);
     }
 }
