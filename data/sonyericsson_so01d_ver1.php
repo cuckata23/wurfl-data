@@ -8,5 +8,7 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'SonyEricsson',
     'marketing_name' => 'Xperia PLAY SO-01D for DoCoMo',
+    'physical_screen_height' => '64',
+    'physical_screen_width' => '43',
   ),
 );

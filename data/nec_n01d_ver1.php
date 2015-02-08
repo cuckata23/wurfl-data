@@ -8,6 +8,8 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'NEC',
     'marketing_name' => 'MEDIAS PP N-01D for DoCoMo',
+    'physical_screen_height' => '85',
+    'physical_screen_width' => '57',
     'density_class' => '1.5',
   ),
 );

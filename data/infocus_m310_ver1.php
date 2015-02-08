@@ -6,7 +6,6 @@ return array (
   array (
     'model_name' => 'M310',
     'brand_name' => 'Infocus',
-    'marketing_name' => 'Infocus',
     'physical_screen_height' => '105',
     'physical_screen_width' => '59',
     'resolution_width' => '720',

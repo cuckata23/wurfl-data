@@ -6,5 +6,7 @@ return array (
   array (
     'device_os_version' => '2.3',
     'release_date' => '2011_october',
+    'physical_screen_height' => '68',
+    'physical_screen_width' => '46',
   ),
 );

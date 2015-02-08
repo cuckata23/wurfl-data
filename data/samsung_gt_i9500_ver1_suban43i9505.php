@@ -4,6 +4,7 @@ return array (
   'fallback' => 'samsung_gt_i9500_ver1',
   'capabilities' => 
   array (
+    'model_name' => 'GT-I9505',
     'device_os_version' => '4.3',
   ),
 );

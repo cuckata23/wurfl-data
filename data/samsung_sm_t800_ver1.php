@@ -9,7 +9,7 @@ return array (
     'uaprof' => 'http://wap.samsungmobile.com/uaprof/SM-T800.xml',
     'model_name' => 'SM-T800',
     'brand_name' => 'Samsung',
-    'marketing_name' => 'Galaxy Tab S 10.5',
+    'marketing_name' => 'Klimt',
     'can_assign_phone_number' => 'false',
     'release_date' => '2014_june',
     'table_support' => 'true',

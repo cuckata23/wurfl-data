@@ -7,6 +7,10 @@ return array (
     'model_name' => 'IS11CA',
     'brand_name' => 'Casio',
     'marketing_name' => 'G\'z One IS11CA for KDDI au',
+    'physical_screen_height' => '79',
+    'physical_screen_width' => '48',
     'density_class' => '1.5',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
   ),
 );

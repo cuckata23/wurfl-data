@@ -10,5 +10,6 @@ return array (
     'resolution_width' => '640',
     'resolution_height' => '960',
     'xhtml_file_upload' => 'supported',
+    'built_in_camera' => 'true',
   ),
 );

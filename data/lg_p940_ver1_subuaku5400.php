@@ -5,5 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'KU5400',
+    'physical_screen_height' => '94',
+    'physical_screen_width' => '57',
   ),
 );

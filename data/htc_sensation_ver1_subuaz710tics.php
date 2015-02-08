@@ -6,5 +6,7 @@ return array (
   array (
     'model_name' => 'Z710t',
     'device_os_version' => '4.0',
+    'physical_screen_height' => '96',
+    'physical_screen_width' => '54',
   ),
 );

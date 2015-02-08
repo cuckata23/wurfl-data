@@ -6,5 +6,7 @@ return array (
   array (
     'model_name' => 'R800a',
     'device_os_version' => '4.0',
+    'physical_screen_height' => '89',
+    'physical_screen_width' => '50',
   ),
 );

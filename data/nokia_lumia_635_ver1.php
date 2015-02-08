@@ -5,6 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Lumia 635',
+    'device_os_version' => '8.1',
     'brand_name' => 'Nokia',
     'physical_screen_height' => '100',
     'physical_screen_width' => '57',

@@ -6,6 +6,6 @@ return array (
   array (
     'model_name' => 'Fire TV',
     'brand_name' => 'Amazon',
-    'is_console' => 'true',
+    'is_smarttv' => 'true',
   ),
 );

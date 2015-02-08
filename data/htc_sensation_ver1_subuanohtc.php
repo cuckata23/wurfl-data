@@ -6,5 +6,7 @@ return array (
   array (
     'device_os_version' => '4.0',
     'marketing_name' => 'Sensation 4G',
+    'physical_screen_height' => '96',
+    'physical_screen_width' => '54',
   ),
 );

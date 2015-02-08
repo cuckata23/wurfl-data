@@ -8,6 +8,8 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'LG',
     'marketing_name' => 'Optimus bright L-07C for DoCoMo',
+    'physical_screen_height' => '88',
+    'physical_screen_width' => '53',
     'density_class' => '1.5',
     'resolution_height' => '800',
     'resolution_width' => '480',

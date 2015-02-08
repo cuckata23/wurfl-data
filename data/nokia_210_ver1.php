@@ -6,8 +6,9 @@ return array (
   array (
     'mobile_browser_version' => '2.3',
     'uaprof' => 'http://nds1.nds.nokia.com/uaprof/Nokia210r100.xml',
-    'model_name' => 'Asha 210',
+    'model_name' => '210',
     'brand_name' => 'Nokia',
+    'marketing_name' => 'Asha 210',
     'release_date' => '2013_july',
     'softkey_support' => 'true',
     'table_support' => 'true',

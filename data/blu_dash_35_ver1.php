@@ -6,6 +6,7 @@ return array (
   array (
     'model_name' => '3.5',
     'brand_name' => 'Blu',
+    'marketing_name' => 'DASH 3.5',
     'release_date' => '2012_september',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

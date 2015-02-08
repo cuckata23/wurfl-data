@@ -6,5 +6,6 @@ return array (
   array (
     'model_name' => 'TY012-C',
     'brand_name' => 'Telecorsa',
+    'can_assign_phone_number' => 'true',
   ),
 );

@@ -7,7 +7,7 @@ return array (
     'is_tablet' => 'true',
     'model_name' => 'UM-A91',
     'brand_name' => 'Allwinner',
-    'can_assign_phone_number' => 'false',
+    'can_assign_phone_number' => 'true',
     'release_date' => '2014_january',
     'physical_screen_height' => '197',
     'physical_screen_width' => '118',

@@ -11,6 +11,8 @@ return array (
     'marketing_name' => 'Maxi Plus 5',
     'release_date' => '2012_june',
     'nfc_support' => 'true',
+    'physical_screen_height' => '74',
+    'physical_screen_width' => '50',
     'density_class' => '1.0',
   ),
 );

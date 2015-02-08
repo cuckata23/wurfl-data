@@ -7,6 +7,7 @@ return array (
     'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ALCATEL_ONE_TOUCH_6016X.xml',
     'model_name' => '6016X',
     'brand_name' => 'ALCATEL',
+    'marketing_name' => 'Idol 2 Mini',
     'release_date' => '2014_august',
     'table_support' => 'true',
     'columns' => '36',

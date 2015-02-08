@@ -5,5 +5,9 @@ return array (
   'capabilities' => 
   array (
     'device_os_version' => '2.3',
+    'physical_screen_height' => '79',
+    'physical_screen_width' => '48',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
   ),
 );

@@ -7,7 +7,9 @@ return array (
     'model_name' => 'QT-A06',
     'brand_name' => 'Kn Mobile',
     'marketing_name' => 'A06',
-    'physical_screen_height' => '108',
-    'physical_screen_width' => '72',
+    'physical_screen_height' => '109',
+    'physical_screen_width' => '66',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
   ),
 );
