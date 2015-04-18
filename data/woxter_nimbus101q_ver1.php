@@ -5,9 +5,8 @@ return array (
   'capabilities' => 
   array (
     'is_tablet' => 'true',
-    'model_name' => '101Q',
+    'model_name' => 'Nimbus 101Q',
     'brand_name' => 'Woxter',
-    'marketing_name' => 'Nimbus',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '136',
     'physical_screen_width' => '218',

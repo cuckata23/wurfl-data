@@ -5,8 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Music 4.0',
-    'brand_name' => 'Blu',
-    'marketing_name' => 'DASH MUSIC 4.0',
+    'brand_name' => 'Blu Dash',
     'release_date' => '2013_september',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

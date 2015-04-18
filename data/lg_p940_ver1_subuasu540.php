@@ -5,7 +5,5 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'SU540',
-    'physical_screen_height' => '94',
-    'physical_screen_width' => '57',
   ),
 );

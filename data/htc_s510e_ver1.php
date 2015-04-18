@@ -13,8 +13,6 @@ return array (
     'wml_1_1' => 'true',
     'columns' => '25',
     'rows' => '21',
-    'resolution_width' => '480',
-    'resolution_height' => '800',
     'jpg' => 'true',
     'gif' => 'true',
     'bmp' => 'true',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'G3',
-    'brand_name' => 'Jiayu',
+    'brand_name' => 'LG',
     'release_date' => '2014_may',
     'physical_screen_height' => '122',
     'physical_screen_width' => '69',

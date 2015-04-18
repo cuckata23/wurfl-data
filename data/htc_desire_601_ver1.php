@@ -5,9 +5,9 @@ return array (
   'capabilities' => 
   array (
     'uaprof' => 'http://www.htcmms.com.tw/Android/Common/CjnctPc6Sf/ua-profile.xml',
-    'model_name' => 'Desire 601',
+    'model_name' => 'Zara',
     'brand_name' => 'HTC',
-    'marketing_name' => 'Zara',
+    'marketing_name' => 'Desire 601',
     'release_date' => '2013_september',
     'table_support' => 'true',
     'wml_1_1' => 'true',

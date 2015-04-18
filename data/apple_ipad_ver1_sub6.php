@@ -8,7 +8,5 @@ return array (
     'device_os_version' => '6.0',
     'model_extra_info' => '6.0',
     'release_date' => '2012_march',
-    'xhtml_file_upload' => 'supported',
-    'built_in_camera' => 'true',
   ),
 );

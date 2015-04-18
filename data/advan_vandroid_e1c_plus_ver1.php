@@ -8,7 +8,7 @@ return array (
     'model_name' => '',
     'brand_name' => 'Advan',
     'marketing_name' => 'E1C+',
-    'can_assign_phone_number' => 'true',
+    'can_assign_phone_number' => 'false',
     'physical_screen_height' => '157',
     'physical_screen_width' => '85',
     'resolution_width' => '432',

@@ -8,7 +8,7 @@ return array (
     'model_name' => 'D725',
     'brand_name' => 'LG',
     'marketing_name' => 'LG B2 Mini',
-    'release_date' => '2014_august',
+    'release_date' => '2014_August',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '720',

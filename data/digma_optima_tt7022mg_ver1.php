@@ -6,7 +6,6 @@ return array (
   array (
     'model_name' => 'TT7022MG',
     'brand_name' => 'Digma Optima',
-    'can_assign_phone_number' => 'true',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',
     'resolution_width' => '600',
