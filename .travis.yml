@@ -14,11 +14,10 @@ os:
 
 before_script:
   - composer self-update
-  - composer install --dev -o --prefer-source
+  - composer install -o --prefer-source
 
 script:
   - php vendor/bin/phpunit --coverage-text --coverage-clover=coverage.clover --colors --verbose
-  - php vendor/bin/phpcs --standard=psr2 -pn src tests
 
 after_script:
   - wget https://scrutinizer-ci.com/ocular.phar
