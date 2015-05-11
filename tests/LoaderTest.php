@@ -590,7 +590,7 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
 
     public function testEmptyKey()
     {
-        $result = Loader::load('');
+        $result = Loader::load('', new \Monolog\Monolog());
 
         self::assertSame(array(), $result);
     }
