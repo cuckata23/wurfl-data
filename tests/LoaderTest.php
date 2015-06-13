@@ -32,6 +32,7 @@
 
 namespace WurflDataTest;
 
+use Monolog\Logger;
 use WurflData\Loader;
 
 /**
@@ -583,14 +584,14 @@ class LoaderTest extends \PHPUnit_Framework_TestCase
             'controlcap_advertised_device_os'                   => 'default',
         );
 
-        $result = Loader::load('35phone_q4350_ver1');
+        $result = Loader::load('35phone_q4350_ver1', new Logger('test'));
         self::assertInternalType('array', $result);
         self::assertSame(0, count(array_diff_key($expected, $result)));
     }
 
     public function testEmptyKey()
     {
-        $result = Loader::load('');
+        $result = Loader::load('', new Logger('test'));
 
         self::assertSame(array(), $result);
     }

@@ -32,6 +32,9 @@
 
 namespace WurflData;
 
+use Exception;
+use Psr\Log\LoggerInterface;
+
 /**
  * class to load the the content from a data file
  *
@@ -47,11 +50,12 @@ class Loader
     /**
      * loads the the content from a data file
      *
-     * @param string $wurflKey
+     * @param string                   $wurflKey
+     * @param \Psr\Log\LoggerInterface $logger
      *
      * @return array $data
      */
-    public static function load($wurflKey)
+    public static function load($wurflKey, LoggerInterface $logger)
     {
         $allData = array();
 
@@ -63,13 +67,25 @@ class Loader
             $filename = __DIR__ . '/../data/' . $wurflKey . '.php';
 
             if (!file_exists($filename)) {
+                $logger->err(new Exception('File "' . $filename . '" was not found'));
                 break;
             }
 
             /** @var array $data */
             $data = require $filename;
 
+            if (!isset($data['fallback'])) {
+                $logger->err(new Exception('File "' . $filename . '" does not contain the fallback property'));
+                break;
+            }
+
             $wurflKey = $data['fallback'];
+
+            if (!isset($data['capabilities'])) {
+                $logger->err(new Exception('File "' . $filename . '" does not contain capabilities'));
+                break;
+            }
+
             $allData = array_merge($allData, $data['capabilities']);
         }
 
