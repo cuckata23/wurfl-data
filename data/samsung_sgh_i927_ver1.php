@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'uaprof' => 'http://wap.samsungmobile.com/uaprof/SGH-I927.xml',
-    'model_name' => 'SGH-i927',
+    'model_name' => 'SGH-I927',
     'brand_name' => 'Samsung',
     'marketing_name' => 'Captivate Glide',
     'physical_screen_height' => '88',

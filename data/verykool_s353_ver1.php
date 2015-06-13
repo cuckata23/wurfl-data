@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S353',
-    'brand_name' => 'Verykool',
+    'brand_name' => 'verykool',
     'marketing_name' => 'Jasper',
     'release_date' => '2013_november',
     'physical_screen_height' => '77',

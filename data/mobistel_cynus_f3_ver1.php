@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'F3',
-    'brand_name' => 'MOBISTEL',
+    'brand_name' => 'Mobistel',
     'marketing_name' => 'Cynus F3',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

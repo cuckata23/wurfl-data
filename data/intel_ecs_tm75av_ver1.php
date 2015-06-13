@@ -5,8 +5,8 @@ return array (
   'capabilities' => 
   array (
     'is_tablet' => 'true',
-    'model_name' => 'TM75A-V',
-    'brand_name' => 'Intel ECS',
+    'model_name' => 'ECS TM75A-V',
+    'brand_name' => 'Intel',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '90',
     'physical_screen_width' => '154',

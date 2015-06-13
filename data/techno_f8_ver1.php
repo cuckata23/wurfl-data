@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'F8',
-    'brand_name' => 'Techno',
+    'brand_name' => 'Tecno',
     'release_date' => '2013_june',
     'physical_screen_height' => '127',
     'physical_screen_width' => '71',

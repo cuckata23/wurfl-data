@@ -4,6 +4,7 @@ return array (
   'fallback' => 'generic_android_ver4_2',
   'capabilities' => 
   array (
+    'uaprof' => 'http://www-ccpp.tcl-ta.com/files/OWN_S3010.xml',
     'model_name' => 'S3010',
     'brand_name' => 'OWN',
     'physical_screen_height' => '88',

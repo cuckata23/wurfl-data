@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'R829',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '540',

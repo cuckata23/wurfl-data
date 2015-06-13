@@ -8,5 +8,6 @@ return array (
     'model_name' => 'Smart 4G',
     'brand_name' => 'Vodafone',
     'release_date' => '2013_july',
+    'nfc_support' => 'true',
   ),
 );

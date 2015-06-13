@@ -4,7 +4,7 @@ return array (
   'fallback' => 'generic_android_ver4_2',
   'capabilities' => 
   array (
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'marketing_name' => 'T5',
     'physical_screen_height' => '105',
     'physical_screen_width' => '59',

@@ -4,5 +4,6 @@ return array (
   'fallback' => 'huawei_ascend_p7_ver1',
   'capabilities' => 
   array (
+    'model_name' => 'Ascend P7 L10',
   ),
 );

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'X907',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'marketing_name' => 'Finder',
     'release_date' => '2012_september',
     'physical_screen_height' => '94',

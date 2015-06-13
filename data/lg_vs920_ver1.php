@@ -9,6 +9,10 @@ return array (
     'brand_name' => 'LG',
     'marketing_name' => 'Revolution 2',
     'release_date' => '2011_july',
+    'physical_screen_height' => '100',
+    'physical_screen_width' => '57',
     'density_class' => '1.5',
+    'resolution_width' => '720',
+    'resolution_height' => '1280',
   ),
 );

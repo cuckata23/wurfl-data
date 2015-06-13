@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'T703',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'release_date' => '2011_november',
     'physical_screen_height' => '68',
     'physical_screen_width' => '46',

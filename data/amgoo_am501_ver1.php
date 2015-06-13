@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'AM510',
-    'brand_name' => 'Amgoo',
+    'brand_name' => 'AMGOO',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '480',

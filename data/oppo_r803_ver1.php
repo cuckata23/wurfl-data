@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'R803',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
   ),

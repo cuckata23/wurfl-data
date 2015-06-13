@@ -8,7 +8,7 @@ return array (
     'pointing_method' => 'touchscreen',
     'uaprof' => 'http://211.42.201.70/ua_profile/EL680.xml',
     'model_name' => 'EL680',
-    'brand_name' => 'MOBISTEL',
+    'brand_name' => 'Mobistel',
     'release_date' => '2009_october',
     'softkey_support' => 'true',
     'table_support' => 'true',

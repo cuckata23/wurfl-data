@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => '50X',
-    'brand_name' => 'Unusual',
+    'brand_name' => 'UNUSUAL',
     'release_date' => '2014_may',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',

@@ -6,8 +6,8 @@ return array (
   array (
     'model_name' => 'Discovery Tab 8',
     'brand_name' => 'General Mobile',
-    'physical_screen_height' => '105',
-    'physical_screen_width' => '59',
+    'physical_screen_height' => '178',
+    'physical_screen_width' => '100',
     'resolution_width' => '720',
     'resolution_height' => '1280',
   ),

@@ -6,6 +6,7 @@ return array (
   array (
     'uaprof' => 'http://www-ccpp-mpd.alcatel.com/files/ALCATEL-BG3-color_1.0.rdf',
     'model_name' => 'One Touch 332',
+    'marketing_name' => 'BG3C',
     'max_deck_size' => '8000',
     'voices' => '16',
     'midi_monophonic' => 'true',

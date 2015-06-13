@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Neo 3.5',
-    'brand_name' => 'BLU',
+    'brand_name' => 'Blu',
     'release_date' => '2014_may',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

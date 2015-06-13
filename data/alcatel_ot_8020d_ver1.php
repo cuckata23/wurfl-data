@@ -6,7 +6,7 @@ return array (
   array (
     'uaprof' => 'http://www-ccpp.tcl-ta.com/files/ONE_TOUCH_8020D.xml',
     'model_name' => 'ONE TOUCH 8020D',
-    'brand_name' => 'ALCATEL',
+    'brand_name' => 'Alcatel',
     'release_date' => '2014_august',
     'table_support' => 'true',
     'columns' => '72',

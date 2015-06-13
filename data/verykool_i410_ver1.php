@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'i410',
-    'brand_name' => 'VeryKool',
+    'brand_name' => 'verykool',
     'resolution_height' => '160',
     'max_image_height' => '130',
     'max_data_rate' => '40',

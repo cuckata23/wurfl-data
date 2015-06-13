@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'ST21i2',
-    'brand_name' => 'Sony Ericsson',
+    'brand_name' => 'SonyEricsson',
     'marketing_name' => 'Xperia Tipo Dual',
   ),
 );

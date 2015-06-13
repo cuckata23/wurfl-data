@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'TAD-10063',
-    'brand_name' => 'Denver',
+    'brand_name' => 'DENVER',
     'physical_screen_height' => '130',
     'physical_screen_width' => '222',
     'resolution_width' => '1024',

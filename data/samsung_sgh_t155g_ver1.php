@@ -8,7 +8,7 @@ return array (
     'model_name' => 'SGH-T155G',
     'brand_name' => 'Samsung',
     'model_extra_info' => 'TracFone',
-    'release_date' => '2009_december',
+    'release_date' => '2010_august',
     'softkey_support' => 'true',
     'table_support' => 'true',
     'wml_1_3' => 'true',

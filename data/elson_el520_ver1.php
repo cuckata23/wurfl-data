@@ -7,7 +7,7 @@ return array (
     'mobile_browser' => 'Teleca-Obigo',
     'uaprof' => 'http://211.42.201.70/ua_profile/EL520.xml',
     'model_name' => 'EL520',
-    'brand_name' => 'MOBISTEL',
+    'brand_name' => 'Mobistel',
     'release_date' => '2009_october',
     'softkey_support' => 'true',
     'table_support' => 'true',

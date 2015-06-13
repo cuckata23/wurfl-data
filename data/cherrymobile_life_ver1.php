@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Life',
-    'brand_name' => 'Cherry mobile',
+    'brand_name' => 'Cherry Mobile',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

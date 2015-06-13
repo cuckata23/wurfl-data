@@ -5,10 +5,11 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'T200',
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'physical_screen_height' => '133',
     'physical_screen_width' => '75',
     'resolution_width' => '1080',
     'resolution_height' => '1920',
+    'nfc_support' => 'true',
   ),
 );

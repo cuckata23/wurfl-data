@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Agua Rio',
-    'brand_name' => 'MyPhne',
+    'brand_name' => 'MyPhone',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '720',

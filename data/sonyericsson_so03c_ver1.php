@@ -8,6 +8,8 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'SonyEricsson',
     'marketing_name' => 'Xperia ray SO-03C for DoCoMo',
+    'physical_screen_height' => '74',
+    'physical_screen_width' => '42',
     'density_class' => '1.5',
     'resolution_height' => '854',
     'resolution_width' => '480',

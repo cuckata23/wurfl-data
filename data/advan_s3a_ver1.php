@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S3A',
-    'brand_name' => 'Advan Vandroid',
+    'brand_name' => 'Advan',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
   ),

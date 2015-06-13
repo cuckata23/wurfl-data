@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'PAD-848',
-    'brand_name' => 'Omisa',
+    'brand_name' => 'OMISA',
     'physical_screen_height' => '122',
     'physical_screen_width' => '163',
     'resolution_width' => '1024',

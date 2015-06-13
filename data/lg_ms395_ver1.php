@@ -5,6 +5,7 @@ return array (
   'capabilities' => 
   array (
     'mobile_browser_version' => '34',
+    'uaprof' => 'http://gsm.lge.com/html/gsm/a_ygkA6q45TBK1IF/LGMS395-M10-D0.xml',
     'model_name' => 'MS395',
     'brand_name' => 'LG',
     'marketing_name' => 'F60',
@@ -13,5 +14,6 @@ return array (
     'physical_screen_width' => '59',
     'resolution_width' => '480',
     'resolution_height' => '800',
+    'nfc_support' => 'true',
   ),
 );

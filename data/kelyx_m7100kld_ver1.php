@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'M7100KLD',
-    'brand_name' => 'Kelyx',
+    'brand_name' => 'KELYX',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',

@@ -5,8 +5,8 @@ return array (
   'capabilities' => 
   array (
     'is_tablet' => 'true',
-    'model_name' => '785',
-    'brand_name' => 'Orion',
+    'model_name' => 'Orion 785',
+    'brand_name' => 'GOCLEVER',
     'can_assign_phone_number' => 'false',
     'release_date' => '2014_january',
     'physical_screen_height' => '120',

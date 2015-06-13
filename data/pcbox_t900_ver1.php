@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'T900',
-    'brand_name' => 'pcbox',
+    'brand_name' => 'PCBox',
     'physical_screen_height' => '197',
     'physical_screen_width' => '118',
   ),

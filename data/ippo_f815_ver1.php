@@ -5,6 +5,6 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'F815',
-    'brand_name' => 'Ippo',
+    'brand_name' => 'IPPO',
   ),
 );

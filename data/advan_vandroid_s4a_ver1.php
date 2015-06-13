@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S4A',
-    'brand_name' => 'Advan Vandroid',
+    'brand_name' => 'Advan',
     'release_date' => '2013_august',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

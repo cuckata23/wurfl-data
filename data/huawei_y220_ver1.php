@@ -4,6 +4,7 @@ return array (
   'fallback' => 'generic_android_ver2_3',
   'capabilities' => 
   array (
+    'uaprof' => 'http://wap1.huawei.com/uaprof/HuaweiY220-U00_UAProfile.xml',
     'model_name' => 'Y220-U00',
     'brand_name' => 'Huawei',
     'release_date' => '2014_march',

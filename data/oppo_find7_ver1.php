@@ -5,10 +5,11 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Find 7',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'physical_screen_height' => '122',
     'physical_screen_width' => '69',
     'resolution_width' => '1440',
     'resolution_height' => '2560',
+    'nfc_support' => 'true',
   ),
 );

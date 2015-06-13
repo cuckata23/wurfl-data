@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'W3',
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'release_date' => '2012_june',
     'physical_screen_height' => '100',
     'physical_screen_width' => '57',

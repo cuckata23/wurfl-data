@@ -8,5 +8,6 @@ return array (
     'mobile_browser_version' => '31',
     'model_name' => '603h',
     'brand_name' => 'HTC',
+    'nfc_support' => 'true',
   ),
 );

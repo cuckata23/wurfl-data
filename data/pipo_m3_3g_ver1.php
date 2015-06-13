@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'M3 3G',
-    'brand_name' => 'Pipo',
+    'brand_name' => 'PiPO',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '218',
     'physical_screen_width' => '136',

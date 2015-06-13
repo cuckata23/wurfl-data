@@ -5,7 +5,8 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'LESPHONE01',
-    'brand_name' => 'L-Phone',
+    'brand_name' => 'LEOTEC',
+    'marketing_name' => 'L-Phone',
     'physical_screen_height' => '118',
     'physical_screen_width' => '66',
     'resolution_width' => '540',

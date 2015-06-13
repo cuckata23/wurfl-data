@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'M1',
-    'brand_name' => 'Pipo',
+    'brand_name' => 'PiPO',
     'marketing_name' => 'Max M1',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '198',

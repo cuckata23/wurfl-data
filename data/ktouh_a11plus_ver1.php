@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'A11 plus',
-    'brand_name' => 'K-touch',
+    'brand_name' => 'K-Touch',
     'release_date' => '2014_march',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

@@ -5,5 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'R800at',
+    'physical_screen_height' => '89',
+    'physical_screen_width' => '50',
   ),
 );

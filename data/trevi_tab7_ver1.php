@@ -8,5 +8,9 @@ return array (
     'model_name' => 'Tab 7 Dual Core',
     'brand_name' => 'Trevi',
     'can_assign_phone_number' => 'false',
+    'physical_screen_height' => '90',
+    'physical_screen_width' => '154',
+    'resolution_width' => '1024',
+    'resolution_height' => '600',
   ),
 );

@@ -11,5 +11,6 @@ return array (
     'physical_screen_width' => '69',
     'resolution_width' => '1440',
     'resolution_height' => '2560',
+    'nfc_support' => 'true',
   ),
 );

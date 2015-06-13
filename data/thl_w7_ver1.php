@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'W7',
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'physical_screen_height' => '127',
     'physical_screen_width' => '71',
     'resolution_width' => '720',

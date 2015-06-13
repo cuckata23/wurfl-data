@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'X40',
-    'brand_name' => 'Vivax',
+    'brand_name' => 'VIVAX',
     'release_date' => '2013_february',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

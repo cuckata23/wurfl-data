@@ -4,7 +4,7 @@ return array (
   'fallback' => 'generic_mobile',
   'capabilities' => 
   array (
-    'model_name' => 'PhilipsX216',
+    'model_name' => 'X216',
     'brand_name' => 'Philips',
     'release_date' => '2011_may',
     'softkey_support' => 'true',

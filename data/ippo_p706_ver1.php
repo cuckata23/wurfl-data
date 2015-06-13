@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'P706',
-    'brand_name' => 'Ippo',
+    'brand_name' => 'IPPO',
     'physical_screen_height' => '130',
     'physical_screen_width' => '222',
     'resolution_width' => '1024',

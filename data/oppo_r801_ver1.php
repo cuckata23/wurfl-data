@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'R801',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'marketing_name' => 'R801 Real',
     'release_date' => '2012_november',
     'physical_screen_height' => '74',

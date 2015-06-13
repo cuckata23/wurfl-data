@@ -4,7 +4,7 @@ return array (
   'fallback' => 'generic_android_ver4_2',
   'capabilities' => 
   array (
-    'model_name' => 'X130 HD',
+    'model_name' => 'Colors X130 HD',
     'brand_name' => 'Teletalk',
     'physical_screen_height' => '105',
     'physical_screen_width' => '59',

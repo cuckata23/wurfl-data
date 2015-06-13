@@ -4,8 +4,9 @@ return array (
   'fallback' => 'generic_android_ver4_4_tablet',
   'capabilities' => 
   array (
-    'model_name' => 'Xperia SGP312',
+    'model_name' => 'SGP312',
     'brand_name' => 'Sony',
+    'marketing_name' => 'Xperia Tablet Z',
     'physical_screen_height' => '136',
     'physical_screen_width' => '218',
     'resolution_width' => '1920',

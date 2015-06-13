@@ -4,8 +4,8 @@ return array (
   'fallback' => 'generic_mobile',
   'capabilities' => 
   array (
-    'model_name' => 'PhilipsX116',
-    'brand_name' => 'Sonim',
+    'model_name' => 'X116',
+    'brand_name' => 'Philips',
     'release_date' => '2011_may',
     'softkey_support' => 'true',
     'table_support' => 'true',

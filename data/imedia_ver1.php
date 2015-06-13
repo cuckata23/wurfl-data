@@ -8,6 +8,8 @@ return array (
     'physical_screen_width' => '92',
     'resolution_width' => '480',
     'resolution_height' => '800',
+    'is_tablet' => 'true',
     'brand_name' => 'iMedia',
+    'can_assign_phone_number' => 'false',
   ),
 );

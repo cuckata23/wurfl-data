@@ -4,6 +4,7 @@ return array (
   'fallback' => 'generic_android_ver4_1',
   'capabilities' => 
   array (
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/GT-I9080L.xml',
     'model_name' => 'GT- I9080L',
     'brand_name' => 'Samsung',
     'marketing_name' => 'Galaxy Grand',

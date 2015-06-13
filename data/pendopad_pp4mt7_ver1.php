@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'PP4MT-7',
-    'brand_name' => 'PendoPad',
+    'brand_name' => 'Pendo',
     'marketing_name' => 'Pendo PendoPad PP4MT-7',
     'physical_screen_height' => '143',
     'physical_screen_width' => '107',

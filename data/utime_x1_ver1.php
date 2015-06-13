@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'X1',
-    'brand_name' => 'Utime',
+    'brand_name' => 'UTime',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '720',

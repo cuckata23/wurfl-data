@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'PNDPP4MT9G2',
-    'brand_name' => 'PendoPad',
+    'brand_name' => 'Pendo',
     'marketing_name' => '4.0 Multi-Touch 9.7',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '198',

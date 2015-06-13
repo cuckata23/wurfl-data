@@ -7,6 +7,7 @@ return array (
     'is_tablet' => 'true',
     'model_name' => 'GEM10313BK',
     'brand_name' => 'Gemini',
+    'model_extra_info' => 'Bluetooth Keyboard',
     'marketing_name' => 'Duo 9.7 Pro',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '148',

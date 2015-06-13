@@ -4,8 +4,8 @@ return array (
   'fallback' => 'generic_android_ver4',
   'capabilities' => 
   array (
-    'model_name' => 'eagle75',
-    'brand_name' => 'MediaTek',
+    'model_name' => 'W832',
+    'brand_name' => 'Philips',
     'release_date' => '2013_october',
     'table_support' => 'true',
     'columns' => '25',

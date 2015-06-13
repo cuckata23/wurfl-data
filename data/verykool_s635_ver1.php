@@ -6,7 +6,7 @@ return array (
   array (
     'uaprof' => 'http://www.verykool.net/Profiles/S635/S635.xml',
     'model_name' => 'S635',
-    'brand_name' => 'VeryKool',
+    'brand_name' => 'verykool',
     'release_date' => '2014_january',
     'softkey_support' => 'true',
     'table_support' => 'true',

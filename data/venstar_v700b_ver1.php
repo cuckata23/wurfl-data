@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'V700B',
-    'brand_name' => 'VENSTAR',
+    'brand_name' => 'Venstar',
     'physical_screen_height' => '153',
     'physical_screen_width' => '92',
     'resolution_width' => '480',

@@ -53,5 +53,6 @@ return array (
     'midi_monophonic' => 'true',
     'imelody' => 'true',
     'midi_polyphonic' => 'true',
+    'nfc_support' => 'true',
   ),
 );

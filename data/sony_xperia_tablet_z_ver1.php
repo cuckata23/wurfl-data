@@ -16,5 +16,6 @@ return array (
     'resolution_width' => '1920',
     'resolution_height' => '1200',
     'max_image_height' => '320',
+    'nfc_support' => 'true',
   ),
 );

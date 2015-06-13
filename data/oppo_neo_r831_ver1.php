@@ -7,7 +7,7 @@ return array (
     'mobile_browser' => 'Chrome Mobile',
     'mobile_browser_version' => '28',
     'model_name' => 'Neo R831',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'physical_screen_height' => '100',
     'physical_screen_width' => '57',
     'resolution_width' => '480',

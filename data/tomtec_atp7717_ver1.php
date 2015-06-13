@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'ATP7717',
-    'brand_name' => 'Tomtec',
+    'brand_name' => 'TomTec',
     'marketing_name' => 'Excellent 7-II',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '153',

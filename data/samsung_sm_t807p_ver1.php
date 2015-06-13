@@ -7,6 +7,7 @@ return array (
     'mobile_browser_version' => '28',
     'model_name' => 'T807P',
     'brand_name' => 'Samsung',
+    'model_extra_info' => 'for sprint',
     'marketing_name' => 'Galaxy Tab TD-LTE',
     'release_date' => '2014_august',
     'physical_screen_height' => '227',

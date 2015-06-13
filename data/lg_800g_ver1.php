@@ -8,5 +8,6 @@ return array (
     'pointing_method' => 'touchscreen',
     'model_name' => '800G',
     'brand_name' => 'LG',
+    'model_extra_info' => 'Tracfone',
   ),
 );

@@ -11,7 +11,7 @@ return array (
     'model_name' => '6790',
     'device_os_version' => '9.3',
     'brand_name' => 'Nokia',
-    'marketing_name' => 'Slide',
+    'marketing_name' => 'Surge',
     'release_date' => '2009_july',
     'softkey_support' => 'true',
     'table_support' => 'true',

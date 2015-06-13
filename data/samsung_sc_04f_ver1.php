@@ -11,5 +11,6 @@ return array (
     'release_date' => '2014_april',
     'resolution_width' => '1080',
     'resolution_height' => '1920',
+    'nfc_support' => 'true',
   ),
 );

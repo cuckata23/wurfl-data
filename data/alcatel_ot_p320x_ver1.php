@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'is_tablet' => 'true',
-    'model_name' => 'OT P320X',
+    'model_name' => 'P320X',
     'brand_name' => 'Alcatel',
     'marketing_name' => 'One Touch Pop 8',
     'physical_screen_height' => '173',

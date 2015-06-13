@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'A28M',
-    'brand_name' => 'Evercross',
+    'brand_name' => 'Evercoss',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

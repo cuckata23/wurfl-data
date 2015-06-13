@@ -5,6 +5,6 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S4E',
-    'brand_name' => 'Advan Vandroid',
+    'brand_name' => 'Advan',
   ),
 );

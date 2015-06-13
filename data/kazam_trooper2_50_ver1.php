@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Trooper2 50',
-    'brand_name' => 'Kazam',
+    'brand_name' => 'KAZAM',
     'release_date' => '2014_august',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'W336',
-    'brand_name' => 'Phillips',
+    'brand_name' => 'Philips',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
   ),

@@ -13,7 +13,9 @@ return array (
     'marketing_name' => 'Galaxy S5',
     'release_date' => '2014_january',
     'table_support' => 'true',
+    'physical_screen_height' => '113',
     'columns' => '25',
+    'physical_screen_width' => '64',
     'rows' => '21',
     'resolution_width' => '1080',
     'resolution_height' => '1920',
@@ -56,5 +58,6 @@ return array (
     'midi_monophonic' => 'true',
     'imelody' => 'true',
     'midi_polyphonic' => 'true',
+    'nfc_support' => 'true',
   ),
 );

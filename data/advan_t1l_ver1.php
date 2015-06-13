@@ -7,7 +7,7 @@ return array (
     'is_tablet' => 'true',
     'model_name' => 'T1L',
     'brand_name' => 'Advan',
-    'can_assign_phone_number' => 'false',
+    'can_assign_phone_number' => 'true',
     'release_date' => '2014_june',
     'physical_screen_height' => '153',
     'physical_screen_width' => '92',

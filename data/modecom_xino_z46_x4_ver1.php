@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Xino Z46 X4',
-    'brand_name' => 'Modecom',
+    'brand_name' => 'MODECOM',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '540',

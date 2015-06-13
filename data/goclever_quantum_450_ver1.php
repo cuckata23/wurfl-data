@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Quantum 450',
-    'brand_name' => 'Goclever',
+    'brand_name' => 'GoClever',
     'physical_screen_height' => '100',
     'physical_screen_width' => '57',
     'resolution_width' => '540',

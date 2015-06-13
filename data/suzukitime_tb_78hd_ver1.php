@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'TB-78HD',
-    'brand_name' => 'Suzukitime',
+    'brand_name' => 'Suzuki Time',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '90',
     'physical_screen_width' => '154',

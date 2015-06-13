@@ -5,5 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_extra_info' => 'Latin America',
+    'physical_screen_height' => '74',
+    'physical_screen_width' => '50',
   ),
 );

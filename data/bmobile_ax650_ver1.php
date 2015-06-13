@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'AX650',
-    'brand_name' => 'Bmobile',
+    'brand_name' => 'B-Mobile',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

@@ -6,7 +6,7 @@ return array (
   array (
     'uaprof' => 'http://www.oppo.com/resource/UA-PROF/OPPOR813T.xml',
     'model_name' => 'R813T',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'release_date' => '2013_january',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

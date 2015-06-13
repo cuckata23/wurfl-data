@@ -8,5 +8,9 @@ return array (
     'model_name' => 'A10',
     'brand_name' => 'Videocon',
     'release_date' => '2013_july',
+    'physical_screen_height' => '74',
+    'physical_screen_width' => '50',
+    'resolution_width' => '320',
+    'resolution_height' => '480',
   ),
 );

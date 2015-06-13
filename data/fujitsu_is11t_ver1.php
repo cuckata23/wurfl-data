@@ -8,6 +8,8 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'Fujitsu Toshiba',
     'marketing_name' => 'REGZA Phone IS11T for KDDI',
+    'physical_screen_height' => '89',
+    'physical_screen_width' => '50',
     'density_class' => '1.5',
     'resolution_height' => '854',
     'resolution_width' => '480',

@@ -4,8 +4,9 @@ return array (
   'fallback' => 'generic_android_ver2_3',
   'capabilities' => 
   array (
-    'model_name' => 'K-Touch',
-    'brand_name' => 'GHT',
+    'uaprof' => 'http://www.ontim.com.cn/ua/K-Touch_T580_uaprofile.xml',
+    'model_name' => 'T580',
+    'brand_name' => 'K-Touch',
     'release_date' => '2014_january',
     'table_support' => 'true',
     'physical_screen_height' => '74',

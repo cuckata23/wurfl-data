@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => '351D',
-    'brand_name' => 'Utok',
+    'brand_name' => 'UTOK',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
   ),

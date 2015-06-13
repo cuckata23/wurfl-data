@@ -6,7 +6,9 @@ return array (
   array (
     'model_name' => 'R800a',
     'release_date' => '2012_january',
+    'physical_screen_height' => '89',
     'columns' => '44',
+    'physical_screen_width' => '50',
     'rows' => '32',
     'resolution_width' => '480',
     'resolution_height' => '854',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'M3',
-    'brand_name' => 'Techno',
+    'brand_name' => 'Tecno',
     'release_date' => '2013_july',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

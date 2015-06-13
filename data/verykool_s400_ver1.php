@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S400',
-    'brand_name' => 'Verykool',
+    'brand_name' => 'verykool',
     'release_date' => '2013_september',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

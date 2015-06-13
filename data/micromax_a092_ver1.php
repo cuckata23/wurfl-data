@@ -5,8 +5,8 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'A092',
-    'brand_name' => 'Samsung',
-    'marketing_name' => 'Canvas Win W092',
+    'brand_name' => 'Micromax',
+    'marketing_name' => 'Unite A092',
     'release_date' => '2014_june',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

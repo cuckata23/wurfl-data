@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'PAD-FMD700P',
-    'brand_name' => 'a-rival',
+    'brand_name' => 'A-Rival',
     'marketing_name' => 'Bioniq',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '92',

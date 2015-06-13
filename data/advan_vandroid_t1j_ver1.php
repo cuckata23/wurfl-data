@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'T1J',
-    'brand_name' => 'Advan Vandroid',
+    'brand_name' => 'Advan',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',
     'resolution_width' => '600',

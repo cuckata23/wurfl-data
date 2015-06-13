@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'Q7033',
-    'brand_name' => 'AllWinner',
+    'brand_name' => 'Allwinner',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '153',
     'physical_screen_width' => '92',

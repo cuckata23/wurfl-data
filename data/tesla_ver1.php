@@ -4,6 +4,7 @@ return array (
   'fallback' => 'generic_android_ver4_2',
   'capabilities' => 
   array (
+    'model_name' => '785 Tablet',
     'is_tablet' => 'true',
     'brand_name' => 'Tesla',
     'can_assign_phone_number' => 'false',

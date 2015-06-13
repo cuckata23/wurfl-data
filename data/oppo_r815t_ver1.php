@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'R815T',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'release_date' => '2013_may',
     'physical_screen_height' => '94',
     'physical_screen_width' => '57',

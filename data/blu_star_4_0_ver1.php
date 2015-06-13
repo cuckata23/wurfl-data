@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Star 4.0',
-    'brand_name' => 'BLU',
+    'brand_name' => 'Blu',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

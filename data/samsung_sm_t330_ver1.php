@@ -9,6 +9,7 @@ return array (
     'model_name' => 'SM-T330',
     'brand_name' => 'Samsung',
     'marketing_name' => 'Galaxy Tab 4 8.0',
+    'can_assign_phone_number' => 'false',
     'physical_screen_height' => '173',
     'physical_screen_width' => '108',
     'resolution_width' => '800',

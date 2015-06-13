@@ -13,5 +13,6 @@ return array (
     'physical_screen_width' => '50',
     'resolution_width' => '480',
     'resolution_height' => '854',
+    'nfc_support' => 'true',
   ),
 );

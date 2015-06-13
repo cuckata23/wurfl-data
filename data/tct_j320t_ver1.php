@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'J320T',
-    'brand_name' => 'TCT',
+    'brand_name' => 'TCL',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'U705T',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'marketing_name' => 'Ulike 2',
     'release_date' => '2012_october',
     'physical_screen_height' => '100',

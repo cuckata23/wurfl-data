@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'Xpad 3G-701',
-    'brand_name' => 'X Wave',
+    'brand_name' => 'XWAVE',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',
     'resolution_width' => '600',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'ZTE N788',
-    'brand_name' => 'ZTE Corporation',
+    'brand_name' => 'ZTE',
     'release_date' => '2013_september',
     'table_support' => 'true',
     'wml_1_1' => 'true',

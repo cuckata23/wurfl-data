@@ -4,9 +4,10 @@ return array (
   'fallback' => 'generic_android_ver4',
   'capabilities' => 
   array (
+    'model_name' => 'Proton Zero',
     'is_tablet' => 'true',
-    'brand_name' => 'X-View',
-    'marketing_name' => 'Proton Zero',
+    'brand_name' => 'X-VIEW',
+    'marketing_name' => '',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '92',
     'physical_screen_width' => '153',

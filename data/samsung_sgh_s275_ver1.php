@@ -6,6 +6,7 @@ return array (
   array (
     'model_name' => 'SGH-S275G',
     'brand_name' => 'Samsung',
+    'model_extra_info' => 'Tracfone',
     'physical_screen_height' => '38',
     'physical_screen_width' => '25',
     'resolution_width' => '320',

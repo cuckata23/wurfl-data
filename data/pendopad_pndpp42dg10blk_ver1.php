@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'PNDPP42DG10BLK',
-    'brand_name' => 'PendoPad',
+    'brand_name' => 'Pendo',
     'physical_screen_height' => '130',
     'physical_screen_width' => '222',
     'resolution_width' => '1024',

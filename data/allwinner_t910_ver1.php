@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'T910',
-    'brand_name' => 'AllWinner',
+    'brand_name' => 'Allwinner',
     'physical_screen_height' => '197',
     'physical_screen_width' => '118',
     'resolution_width' => '480',

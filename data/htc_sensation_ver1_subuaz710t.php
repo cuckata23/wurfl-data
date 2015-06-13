@@ -5,5 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Z710t',
+    'physical_screen_height' => '96',
+    'physical_screen_width' => '54',
   ),
 );

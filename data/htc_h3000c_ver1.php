@@ -10,5 +10,6 @@ return array (
     'release_date' => '2012_september',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
+    'nfc_support' => 'true',
   ),
 );

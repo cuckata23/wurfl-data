@@ -6,7 +6,7 @@ return array (
   array (
     'model_name' => 'X8',
     'device_os_version' => '2.3',
-    'brand_name' => 'Sony Ericsson',
+    'brand_name' => 'SonyEricsson',
     'release_date' => '2010_june',
   ),
 );

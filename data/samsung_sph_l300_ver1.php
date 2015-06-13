@@ -9,6 +9,8 @@ return array (
     'brand_name' => 'Samsung',
     'model_extra_info' => 'for Sprint',
     'marketing_name' => 'Galaxy Victory 4G LTE',
+    'physical_screen_height' => '88',
+    'physical_screen_width' => '53',
     'density_class' => '1.5',
     'resolution_width' => '480',
     'resolution_height' => '800',

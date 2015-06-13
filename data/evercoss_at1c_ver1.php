@@ -7,7 +7,7 @@ return array (
     'is_tablet' => 'true',
     'model_name' => 'AT1C',
     'brand_name' => 'Evercoss',
-    'can_assign_phone_number' => 'false',
+    'can_assign_phone_number' => 'true',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',
     'resolution_width' => '600',

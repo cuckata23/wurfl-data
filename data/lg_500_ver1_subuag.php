@@ -4,5 +4,7 @@ return array (
   'fallback' => 'lg_500_ver1',
   'capabilities' => 
   array (
+    'model_name' => '500G',
+    'model_extra_info' => 'Tracfone',
   ),
 );

@@ -6,7 +6,7 @@ return array (
   array (
     'mobile_browser_version' => '30',
     'model_name' => 'TOOS',
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'release_date' => '2014_march',
     'physical_screen_height' => '105',
     'physical_screen_width' => '59',

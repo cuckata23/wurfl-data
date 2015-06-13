@@ -6,5 +6,7 @@ return array (
   array (
     'model_name' => 'A510b',
     'marketing_name' => 'Wildfire S',
+    'physical_screen_height' => '68',
+    'physical_screen_width' => '46',
   ),
 );

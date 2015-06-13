@@ -8,6 +8,7 @@ return array (
     'brand_name' => 'Torque',
     'physical_screen_height' => '92',
     'physical_screen_width' => '153',
+    'resolution_height' => '480',
     'resolution_width' => '800',
   ),
 );

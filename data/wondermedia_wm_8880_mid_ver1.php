@@ -5,6 +5,6 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'WM-8880-MID',
-    'brand_name' => 'Wondermedia',
+    'brand_name' => 'WonderMedia',
   ),
 );

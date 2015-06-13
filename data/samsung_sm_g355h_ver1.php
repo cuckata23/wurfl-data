@@ -5,6 +5,7 @@ return array (
   'capabilities' => 
   array (
     'mobile_browser' => 'Android Webkit',
+    'uaprof' => 'http://wap.samsungmobile.com/uaprof/SM-G355H.xml',
     'model_name' => 'SM-G355H',
     'brand_name' => 'Samsung',
     'marketing_name' => 'Galaxy Core II',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'V12',
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'physical_screen_height' => '89',
     'physical_screen_width' => '50',
     'resolution_width' => '480',

@@ -5,6 +5,6 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'Smart8',
-    'brand_name' => 'Nex',
+    'brand_name' => 'NEX',
   ),
 );

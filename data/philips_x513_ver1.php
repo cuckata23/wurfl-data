@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => '3200',
-    'brand_name' => 'Sonim',
+    'brand_name' => 'Philips',
     'release_date' => '2013_march',
     'softkey_support' => 'true',
     'table_support' => 'true',

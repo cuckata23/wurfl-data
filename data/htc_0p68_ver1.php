@@ -8,5 +8,6 @@ return array (
     'model_name' => '0P6B',
     'brand_name' => 'HTC',
     'marketing_name' => 'M8 Mini',
+    'nfc_support' => 'true',
   ),
 );

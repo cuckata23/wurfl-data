@@ -4,6 +4,8 @@ return array (
   'fallback' => 'generic_android_ver4_1',
   'capabilities' => 
   array (
+    'mobile_browser' => 'Chrome Mobile',
+    'mobile_browser_version' => '33',
     'model_name' => 'N799D',
     'brand_name' => 'ZTE',
     'release_date' => '2013_november',

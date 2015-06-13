@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'E1500',
-    'brand_name' => 'ZIGO',
+    'brand_name' => 'Philips',
     'release_date' => '2013_september',
     'softkey_support' => 'true',
     'table_support' => 'true',

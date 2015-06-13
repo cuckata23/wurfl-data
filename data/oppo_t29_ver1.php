@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'T29',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'release_date' => '2012_october',
     'physical_screen_height' => '100',
     'physical_screen_width' => '57',

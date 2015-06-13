@@ -12,5 +12,6 @@ return array (
     'physical_screen_width' => '30',
     'resolution_height' => '320',
     'max_image_height' => '200',
+    'nfc_support' => 'true',
   ),
 );

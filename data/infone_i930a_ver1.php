@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'i930a',
-    'brand_name' => 'Infone',
+    'brand_name' => 'iNFONE',
     'release_date' => '2013_november',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

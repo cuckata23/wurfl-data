@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'TAC-70112',
-    'brand_name' => 'Denver',
+    'brand_name' => 'DENVER',
     'physical_screen_height' => '92',
     'physical_screen_width' => '153',
     'resolution_width' => '800',

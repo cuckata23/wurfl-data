@@ -4,8 +4,8 @@ return array (
   'fallback' => 'generic_android_ver4_2',
   'capabilities' => 
   array (
-    'model_name' => 'mt6577_phone',
-    'brand_name' => 'MediaTek',
+    'model_name' => 'W6500',
+    'brand_name' => 'Philips',
     'release_date' => '2014_march',
     'table_support' => 'true',
     'columns' => '25',

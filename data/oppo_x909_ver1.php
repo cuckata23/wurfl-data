@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'X909',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'marketing_name' => 'Find5 X909',
     'release_date' => '2013_march',
     'nfc_support' => 'true',

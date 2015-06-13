@@ -7,7 +7,7 @@ return array (
     'is_tablet' => 'true',
     'model_name' => 'Qtab Q300',
     'brand_name' => 'QMobile',
-    'can_assign_phone_number' => 'false',
+    'can_assign_phone_number' => 'true',
     'release_date' => '2014_march',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',

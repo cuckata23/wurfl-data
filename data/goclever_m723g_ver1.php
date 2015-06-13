@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'M723G',
-    'brand_name' => 'GOCLEVER',
+    'brand_name' => 'GoClever',
     'marketing_name' => 'ELIPSO 72',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '154',

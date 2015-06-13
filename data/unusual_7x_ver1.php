@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => '7X',
-    'brand_name' => 'Unusual',
+    'brand_name' => 'UNUSUAL',
     'physical_screen_height' => '154',
     'physical_screen_width' => '90',
     'resolution_width' => '600',

@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'Cyclone Explorer',
-    'brand_name' => 'Sumvision',
+    'brand_name' => 'SUMVISION',
     'can_assign_phone_number' => 'false',
     'release_date' => '2013_july',
     'physical_screen_height' => '153',

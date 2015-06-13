@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'T5S',
-    'brand_name' => 'THL',
+    'brand_name' => 'ThL',
     'physical_screen_height' => '105',
     'physical_screen_width' => '59',
     'resolution_width' => '540',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S1 PRO',
-    'brand_name' => 'PIPO',
+    'brand_name' => 'PiPO',
     'physical_screen_height' => '90',
     'physical_screen_width' => '154',
     'resolution_width' => '1024',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'I50',
-    'brand_name' => 'Malta',
+    'brand_name' => 'Malata',
     'release_date' => '2011_september',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

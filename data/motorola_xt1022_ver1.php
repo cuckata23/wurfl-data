@@ -5,6 +5,7 @@ return array (
   'capabilities' => 
   array (
     'mobile_browser_version' => '30',
+    'uaprof' => 'http://uaprof.motorola.com/phoneconfig/motoxt1022/Profile/motoxt1022.rdf',
     'model_name' => 'XT1022',
     'brand_name' => 'Motorola',
     'marketing_name' => 'Moto E',

@@ -6,5 +6,7 @@ return array (
   array (
     'model_name' => 'Z710a',
     'model_extra_info' => 'Australian market',
+    'physical_screen_height' => '96',
+    'physical_screen_width' => '54',
   ),
 );

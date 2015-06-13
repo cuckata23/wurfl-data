@@ -8,7 +8,9 @@ return array (
     'model_name' => 'P1HR',
     'brand_name' => 'Pandigital',
     'can_assign_phone_number' => 'false',
-    'physical_screen_height' => '58',
-    'physical_screen_width' => '44',
+    'physical_screen_height' => '131',
+    'physical_screen_width' => '79',
+    'resolution_width' => '480',
+    'resolution_height' => '800',
   ),
 );

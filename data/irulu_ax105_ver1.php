@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'AX105',
-    'brand_name' => 'Irulu',
+    'brand_name' => 'iRulu',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '222',
     'physical_screen_width' => '130',

@@ -4,6 +4,8 @@ return array (
   'fallback' => 'generic_android_ver4_3',
   'capabilities' => 
   array (
+    'mobile_browser' => 'Chrome Mobile',
+    'mobile_browser_version' => '28',
     'is_tablet' => 'true',
     'model_name' => 'K012',
     'brand_name' => 'Asus',

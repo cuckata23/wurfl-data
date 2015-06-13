@@ -6,7 +6,7 @@ return array (
   array (
     'uaprof' => 'http://wap.sonymobile.com/UAprof/LT26iiR611.xml',
     'model_name' => 'LT26ii',
-    'brand_name' => 'Sony Ericsson',
+    'brand_name' => 'SonyEricsson',
     'marketing_name' => 'Xperia SL',
     'release_date' => '2012_september',
     'table_support' => 'true',

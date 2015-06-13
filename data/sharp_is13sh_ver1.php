@@ -8,6 +8,10 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'Sharp',
     'marketing_name' => 'AQUOS Phone IS13SH for KDDI',
+    'physical_screen_height' => '93',
+    'physical_screen_width' => '53',
     'density_class' => '1.5',
+    'resolution_width' => '540',
+    'resolution_height' => '960',
   ),
 );

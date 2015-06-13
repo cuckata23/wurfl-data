@@ -9,5 +9,7 @@ return array (
     'brand_name' => 'LG',
     'marketing_name' => 'Bryce',
     'density_class' => '1.5',
+    'max_image_width' => '480',
+    'max_image_height' => '800',
   ),
 );

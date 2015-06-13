@@ -523,6 +523,7 @@ return array (
     'controlcap_advertised_device_os_version' => 'default',
     'controlcap_is_touchscreen' => 'default',
     'controlcap_is_full_desktop' => 'default',
+    'controlcap_complete_device_name' => 'default',
     'controlcap_is_html_preferred' => 'default',
     'controlcap_is_wml_preferred' => 'default',
     'controlcap_is_largescreen' => 'default',

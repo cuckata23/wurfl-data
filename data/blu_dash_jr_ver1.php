@@ -5,7 +5,8 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'JR',
-    'brand_name' => 'Blu Dash',
+    'brand_name' => 'Blu',
+    'marketing_name' => 'DASH JR',
     'release_date' => '2013_september',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

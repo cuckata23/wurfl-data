@@ -12,5 +12,6 @@ return array (
     'mobile_browser_version' => '28',
     'model_name' => 'R970',
     'brand_name' => 'Samsung',
+    'nfc_support' => 'true',
   ),
 );

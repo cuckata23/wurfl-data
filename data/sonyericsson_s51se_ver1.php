@@ -8,6 +8,8 @@ return array (
     'device_os_version' => '2.3',
     'brand_name' => 'SonyEricsson',
     'marketing_name' => 'Sony Ericsson mini for emobile',
+    'physical_screen_height' => '64',
+    'physical_screen_width' => '43',
     'density_class' => '1.0',
   ),
 );

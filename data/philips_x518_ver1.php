@@ -4,13 +4,15 @@ return array (
   'fallback' => 'generic_mobile',
   'capabilities' => 
   array (
-    'model_name' => '3200',
-    'brand_name' => 'Sonim',
+    'model_name' => 'X518',
+    'brand_name' => 'Philips',
     'release_date' => '2011_may',
     'softkey_support' => 'true',
     'table_support' => 'true',
     'wml_1_3' => 'true',
+    'physical_screen_height' => '57',
     'columns' => '14',
+    'physical_screen_width' => '43',
     'rows' => '14',
     'max_image_width' => '228',
     'resolution_width' => '240',

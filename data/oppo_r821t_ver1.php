@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'R821T',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'marketing_name' => 'FInd Muse',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

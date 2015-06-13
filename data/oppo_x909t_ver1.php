@@ -5,12 +5,13 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'X909T',
-    'brand_name' => 'Oppo',
+    'brand_name' => 'OPPO',
     'marketing_name' => 'Find 5',
     'release_date' => '2013_may',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '1080',
     'resolution_height' => '1920',
+    'nfc_support' => 'true',
   ),
 );

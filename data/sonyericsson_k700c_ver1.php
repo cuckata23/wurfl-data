@@ -21,5 +21,7 @@ return array (
     'playback_vcodec_mpeg4_sp' => '0',
     'playback_vcodec_h263_0' => '10',
     'video' => 'true',
+    'physical_screen_height' => '36',
+    'physical_screen_width' => '29',
   ),
 );

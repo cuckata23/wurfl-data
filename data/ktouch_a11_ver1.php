@@ -7,7 +7,7 @@ return array (
     'mobile_browser' => 'UCWeb',
     'mobile_browser_version' => '9',
     'model_name' => 'A11',
-    'brand_name' => 'Ktouch',
+    'brand_name' => 'K-Touch',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
   ),

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'S6',
-    'brand_name' => 'No1',
+    'brand_name' => 'No.1',
     'release_date' => '2013_august',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',

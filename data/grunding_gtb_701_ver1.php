@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'GTB 701',
-    'brand_name' => 'Grunding',
+    'brand_name' => 'Grundig',
     'physical_screen_height' => '90',
     'physical_screen_width' => '154',
     'resolution_width' => '1024',

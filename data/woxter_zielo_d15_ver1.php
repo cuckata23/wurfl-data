@@ -5,7 +5,8 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'D15',
-    'brand_name' => 'Woxter Zielo',
+    'brand_name' => 'Woxter',
+    'marketing_name' => 'Zielo',
     'release_date' => '2014_may',
     'physical_screen_height' => '100',
     'physical_screen_width' => '57',

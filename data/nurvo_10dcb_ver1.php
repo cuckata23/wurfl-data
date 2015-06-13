@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => '10DCB',
-    'brand_name' => 'NURVO',
+    'brand_name' => 'Nurvo',
     'can_assign_phone_number' => 'false',
     'release_date' => '2013_october',
     'physical_screen_height' => '218',

@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'is_tablet' => 'true',
-    'brand_name' => 'Microvission',
+    'brand_name' => 'Microvision',
     'marketing_name' => 'Zeven',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '90',

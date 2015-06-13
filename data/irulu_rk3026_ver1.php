@@ -6,7 +6,7 @@ return array (
   array (
     'model_name' => 'RK3026',
     'is_tablet' => 'true',
-    'brand_name' => 'Irulu',
+    'brand_name' => 'iRulu',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '153',
     'physical_screen_width' => '92',

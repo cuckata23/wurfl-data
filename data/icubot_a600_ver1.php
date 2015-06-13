@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'A600',
-    'brand_name' => 'Icubot',
+    'brand_name' => 'ICUBOT',
     'physical_screen_height' => '94',
     'physical_screen_width' => '57',
   ),

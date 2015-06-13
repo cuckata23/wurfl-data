@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'Cyclone Voyager',
-    'brand_name' => 'Sumvision',
+    'brand_name' => 'SUMVISION',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '136',
     'physical_screen_width' => '218',

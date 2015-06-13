@@ -8,7 +8,7 @@ return array (
     'uaprof' => 'http://211.42.201.70/ua_profile/EL580.xml',
     'can_skip_aligned_link_row' => 'true',
     'model_name' => 'EL580',
-    'brand_name' => 'MOBISTEL',
+    'brand_name' => 'Mobistel',
     'release_date' => '2009_july',
     'softkey_support' => 'true',
     'table_support' => 'true',

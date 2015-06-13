@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'IQ 5.7',
-    'brand_name' => 'imobile',
+    'brand_name' => 'i-mobile',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',
     'resolution_width' => '540',

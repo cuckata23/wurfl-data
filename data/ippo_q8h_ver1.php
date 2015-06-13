@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'Q8H',
-    'brand_name' => 'Ippo',
+    'brand_name' => 'IPPO',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '153',
     'physical_screen_width' => '92',

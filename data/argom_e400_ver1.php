@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'E400',
-    'brand_name' => 'Argom',
+    'brand_name' => 'ArgomTech',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

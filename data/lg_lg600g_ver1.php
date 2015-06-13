@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'uaprof' => 'http://gsm.lge.com/html/gsm/LG-LG600G.xml',
-    'model_name' => 'LGE/LG600G',
+    'model_name' => 'LG600G',
     'brand_name' => 'LG',
     'model_extra_info' => 'TracFone',
     'release_date' => '2009_december',

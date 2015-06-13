@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'iNO 2',
-    'brand_name' => 'INO Mobile',
+    'brand_name' => 'iNO Mobile',
     'model_extra_info' => 'Non Camera Smartphone',
     'physical_screen_height' => '96',
     'physical_screen_width' => '54',

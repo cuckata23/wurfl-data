@@ -7,5 +7,7 @@ return array (
     'model_name' => 'LS685',
     'brand_name' => 'LG',
     'marketing_name' => 'Gelato',
+    'physical_screen_height' => '68',
+    'physical_screen_width' => '46',
   ),
 );

@@ -8,7 +8,6 @@ return array (
     'model_name' => 'One mini',
     'uaprof2' => 'http://www.htcmms.com.tw/Android/Common/PO581/ua-profile.xml',
     'brand_name' => 'HTC',
-    'marketing_name' => '601,601e,601n,601s,M4',
     'release_date' => '2013_august',
     'table_support' => 'true',
     'wml_1_1' => 'true',

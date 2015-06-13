@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'TPC-71203G',
-    'brand_name' => 'Vivax',
+    'brand_name' => 'VIVAX',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '90',
     'physical_screen_width' => '154',

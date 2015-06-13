@@ -6,6 +6,7 @@ return array (
   array (
     'model_name' => 'Ultrafone 303P',
     'brand_name' => 'Zen',
+    'marketing_name' => 'Power',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',
     'resolution_width' => '480',

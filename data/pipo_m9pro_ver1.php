@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'M9Pro',
-    'brand_name' => 'Pipo',
+    'brand_name' => 'PiPO',
     'can_assign_phone_number' => 'false',
     'release_date' => '2013_december',
     'physical_screen_height' => '218',

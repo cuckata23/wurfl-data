@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'SS1070',
-    'brand_name' => 'M4',
+    'brand_name' => 'M4Tel',
     'marketing_name' => 'Sense',
     'physical_screen_height' => '111',
     'physical_screen_width' => '63',

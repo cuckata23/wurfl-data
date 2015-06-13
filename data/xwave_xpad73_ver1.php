@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'XPAD 73',
-    'brand_name' => 'X Wave',
+    'brand_name' => 'XWAVE',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '153',
     'physical_screen_width' => '92',

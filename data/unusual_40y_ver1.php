@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => '40Y',
-    'brand_name' => 'Unusual',
+    'brand_name' => 'UNUSUAL',
     'release_date' => '2014_january',
     'physical_screen_height' => '88',
     'physical_screen_width' => '53',

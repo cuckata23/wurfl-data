@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'N3S',
-    'brand_name' => 'Techno',
+    'brand_name' => 'Tecno',
     'release_date' => '2012_november',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',

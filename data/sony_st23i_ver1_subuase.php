@@ -4,6 +4,6 @@ return array (
   'fallback' => 'sony_st23i_ver1',
   'capabilities' => 
   array (
-    'brand_name' => 'Sony Ericsson',
+    'brand_name' => 'SonyEricsson',
   ),
 );

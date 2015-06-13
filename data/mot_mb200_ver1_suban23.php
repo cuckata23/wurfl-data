@@ -6,5 +6,7 @@ return array (
   array (
     'mobile_browser_version' => '',
     'device_os_version' => '2.3',
+    'physical_screen_height' => '66',
+    'physical_screen_width' => '44',
   ),
 );

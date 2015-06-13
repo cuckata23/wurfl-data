@@ -5,7 +5,7 @@ return array (
   'capabilities' => 
   array (
     'model_name' => 'AM516',
-    'brand_name' => 'Amgoo',
+    'brand_name' => 'AMGOO',
     'physical_screen_height' => '74',
     'physical_screen_width' => '50',
   ),

@@ -6,7 +6,7 @@ return array (
   array (
     'is_tablet' => 'true',
     'model_name' => 'M6pro',
-    'brand_name' => 'Pipo',
+    'brand_name' => 'PiPO',
     'can_assign_phone_number' => 'false',
     'physical_screen_height' => '148',
     'physical_screen_width' => '198',

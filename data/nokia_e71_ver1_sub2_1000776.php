@@ -4,7 +4,7 @@ return array (
   'fallback' => 'nokia_e71_ver1_sub10000776',
   'capabilities' => 
   array (
-    'model_name' => 'E71-2',
+    'model_name' => 'E71',
     'columns' => '28',
     'rows' => '13',
     'resolution_width' => '320',
